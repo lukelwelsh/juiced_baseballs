@@ -1,0 +1,3111 @@
+"","batting_team","velo","game"
+"1","Chicago Cubs",91.3739130434783,663178
+"2","Milwaukee Brewers",89.9461538461538,663178
+"3","Cleveland Guardians",88.3357142857143,662766
+"4","Kansas City Royals",90.552380952381,662766
+"5","Pittsburgh Pirates",82.0571428571429,662021
+"6","St. Louis Cardinals",88.8571428571429,662021
+"7","New York Mets",82.748,662571
+"8","Washington Nationals",88.05,662571
+"9","Atlanta Braves",93.3388888888889,661577
+"10","Cincinnati Reds",83.1695652173913,661577
+"11","Houston Astros",88.5541666666667,661042
+"12","Los Angeles Angels",86.45,661042
+"13","Arizona Diamondbacks",91.025,663418
+"14","San Diego Padres",88.0458333333333,663418
+"15","Boston Red Sox",85.8714285714286,661333
+"16","New York Yankees",93.116,661333
+"17","Minnesota Twins",89.2391304347826,661750
+"18","Seattle Mariners",84.685,661750
+"19","Boston Red Sox",85.8714285714286,661333
+"20","New York Yankees",93.116,661333
+"21","Chicago White Sox",94.758064516129,662888
+"22","Detroit Tigers",92.7272727272727,662888
+"23","Oakland Athletics",88.2869565217391,661131
+"24","Philadelphia Phillies",91.5730769230769,661131
+"25","Baltimore Orioles",88.4526315789474,661918
+"26","Tampa Bay Rays",86.9391304347826,661918
+"27","Colorado Rockies",81.4272727272727,662933
+"28","Los Angeles Dodgers",90.496,662933
+"29","Minnesota Twins",89.2391304347826,661750
+"30","Seattle Mariners",84.685,661750
+"31","Miami Marlins",84.1757575757576,662124
+"32","San Francisco Giants",91.864,662124
+"33","New York Mets",91.3925925925926,662559
+"34","Washington Nationals",90.3,662559
+"35","Texas Rangers",89.7757575757576,661782
+"36","Toronto Blue Jays",95.4458333333333,661782
+"37","Atlanta Braves",90.5166666666667,661576
+"38","Cincinnati Reds",85.2461538461538,661576
+"39","Houston Astros",94.18125,661041
+"40","Los Angeles Angels",87.5181818181818,661041
+"41","Arizona Diamondbacks",89.1095238095238,663417
+"42","San Diego Padres",92.1347826086957,663417
+"43","Chicago Cubs",90.2933333333333,663147
+"44","Milwaukee Brewers",84.205,663147
+"45","Baltimore Orioles",93.5458333333333,661917
+"46","Tampa Bay Rays",93.432,661917
+"47","Chicago White Sox",96.1838709677419,662864
+"48","Detroit Tigers",91.3684210526316,662864
+"49","Minnesota Twins",88.8764705882353,661756
+"50","Seattle Mariners",89.0285714285714,661756
+"51","Pittsburgh Pirates",91.4206896551724,662020
+"52","St. Louis Cardinals",83.1576923076923,662020
+"53","Chicago Cubs",92.9923076923077,663205
+"54","Milwaukee Brewers",88.8888888888889,663205
+"55","Texas Rangers",90.1206896551724,661803
+"56","Toronto Blue Jays",89.5923076923077,661803
+"57","Oakland Athletics",87.6222222222222,661130
+"58","Philadelphia Phillies",90.4363636363636,661130
+"59","Miami Marlins",83.65,662123
+"60","San Francisco Giants",92.7411764705882,662123
+"61","Boston Red Sox",90.6380952380952,661332
+"62","New York Yankees",94.5727272727273,661332
+"63","Cleveland Guardians",87.6782608695652,662765
+"64","Kansas City Royals",87.4965517241379,662765
+"65","New York Mets",89.4037037037037,662588
+"66","Washington Nationals",84.0947368421053,662588
+"67","Atlanta Braves",92.5347826086957,661575
+"68","Cincinnati Reds",85.085,661575
+"69","Colorado Rockies",84.5,662931
+"70","Los Angeles Dodgers",87.064,662931
+"71","Arizona Diamondbacks",88.5666666666667,663404
+"72","San Diego Padres",83.8677419354839,663404
+"73","Houston Astros",84.3583333333333,661040
+"74","Los Angeles Angels",93.49375,661040
+"75","Oakland Athletics",89.6481481481482,661129
+"76","Philadelphia Phillies",91.647619047619,661129
+"77","Baltimore Orioles",85.7526315789474,661916
+"78","Tampa Bay Rays",94.896,661916
+"79","Chicago White Sox",91.4264705882353,662887
+"80","Detroit Tigers",91.34,662887
+"81","New York Mets",89.5652173913043,662570
+"82","Washington Nationals",87.2130434782609,662570
+"83","Atlanta Braves",92.3217391304348,661573
+"84","Cincinnati Reds",83.9625,661573
+"85","Texas Rangers",94.6214285714286,661802
+"86","Toronto Blue Jays",91.9714285714286,661802
+"87","Cleveland Guardians",90.9842105263158,662755
+"88","Kansas City Royals",91.0111111111111,662755
+"89","Minnesota Twins",95.55,661738
+"90","Seattle Mariners",84.76,661738
+"91","Pittsburgh Pirates",91.7548387096774,662019
+"92","St. Louis Cardinals",89.7035714285714,662019
+"93","Chicago Cubs",87.2529411764706,663204
+"94","Milwaukee Brewers",94.395652173913,663204
+"95","Colorado Rockies",90.6034482758621,662934
+"96","Los Angeles Dodgers",85.2107142857143,662934
+"97","Miami Marlins",92.3307692307692,662122
+"98","San Francisco Giants",86.344,662122
+"99","Houston Astros",87.6964285714286,661039
+"100","Los Angeles Angels",89.556,661039
+"101","Arizona Diamondbacks",88.65,663395
+"102","San Diego Padres",92.1041666666667,663395
+"103","Boston Red Sox",87.6958333333333,661316
+"104","New York Yankees",94.5111111111111,661316
+"105","Cleveland Guardians",85.741935483871,662754
+"106","Kansas City Royals",91.3444444444444,662754
+"107","Baltimore Orioles",87.704347826087,663403
+"108","Milwaukee Brewers",87.4260869565217,663403
+"109","Colorado Rockies",90.8064516129032,662042
+"110","Texas Rangers",87.0428571428571,662042
+"111","Boston Red Sox",90.4346153846154,662863
+"112","Detroit Tigers",88.9952380952381,662863
+"113","Oakland Athletics",88.7363636363636,661915
+"114","Tampa Bay Rays",93.0909090909091,661915
+"115","New York Mets",85.037037037037,661637
+"116","Philadelphia Phillies",87.4047619047619,661637
+"117","New York Yankees",89.58,661315
+"118","Toronto Blue Jays",90.2296296296296,661315
+"119","Atlanta Braves",87.3913043478261,661572
+"120","Washington Nationals",88.484375,661572
+"121","Minnesota Twins",91.8958333333333,661754
+"122","Seattle Mariners",81.85,661754
+"123","Los Angeles Angels",92.395652173913,661036
+"124","Miami Marlins",90.2368421052632,661036
+"125","San Diego Padres",85.9208333333333,662116
+"126","San Francisco Giants",91.3,662116
+"127","Boston Red Sox",87.0535714285714,662862
+"128","Detroit Tigers",87.576,662862
+"129","Cincinnati Reds",88.7238095238095,663088
+"130","Cleveland Guardians",87.875,663088
+"131","Chicago White Sox",91.7476190476191,661538
+"132","Seattle Mariners",91.2291666666667,661538
+"133","Chicago Cubs",88.5,662318
+"134","Pittsburgh Pirates",78.95,662318
+"135","Oakland Athletics",88.462962962963,661944
+"136","Tampa Bay Rays",95.0625,661944
+"137","New York Mets",84.0904761904762,661636
+"138","Philadelphia Phillies",90.9842105263158,661636
+"139","New York Yankees",95.1791666666667,661314
+"140","Toronto Blue Jays",86.5913043478261,661314
+"141","Baltimore Orioles",89.715,663295
+"142","Milwaukee Brewers",87.8064516129032,663295
+"143","Los Angeles Angels",92.3571428571429,661038
+"144","Miami Marlins",85.1565217391304,661038
+"145","Atlanta Braves",91.6323529411765,661571
+"146","Washington Nationals",89.6230769230769,661571
+"147","Los Angeles Dodgers",93.9384615384615,661753
+"148","Minnesota Twins",86.1791666666667,661753
+"149","Kansas City Royals",87.4071428571429,662017
+"150","St. Louis Cardinals",94.232,662017
+"151","Colorado Rockies",86.7791666666667,661995
+"152","Texas Rangers",89.86,661995
+"153","Arizona Diamondbacks",91.2695652173913,663411
+"154","Houston Astros",88.9125,663411
+"155","San Diego Padres",88.775,662104
+"156","San Francisco Giants",94.8384615384615,662104
+"157","Atlanta Braves",94.9315789473684,661570
+"158","Washington Nationals",86.6083333333333,661570
+"159","Cincinnati Reds",84.9428571428572,663117
+"160","Cleveland Guardians",84.5833333333333,663117
+"161","Chicago Cubs",88.195652173913,662317
+"162","Pittsburgh Pirates",90.8190476190476,662317
+"163","New York Mets",91.5208333333333,661643
+"164","Philadelphia Phillies",86.0333333333333,661643
+"165","Boston Red Sox",92.7677419354839,662885
+"166","Detroit Tigers",92.6153846153846,662885
+"167","Los Angeles Dodgers",88.31875,661734
+"168","Minnesota Twins",84.3357142857143,661734
+"169","Arizona Diamondbacks",88.7238095238095,663341
+"170","Houston Astros",87.6821428571429,663341
+"171","San Diego Padres",87.0347826086957,662115
+"172","San Francisco Giants",87.4375,662115
+"173","Oakland Athletics",87.2888888888889,661943
+"174","Tampa Bay Rays",85.7035714285714,661943
+"175","New York Yankees",95.6461538461539,661313
+"176","Toronto Blue Jays",91.0185185185185,661313
+"177","Baltimore Orioles",86.835,663433
+"178","Milwaukee Brewers",84.6814814814815,663433
+"179","Chicago White Sox",96.3,661530
+"180","Seattle Mariners",82.9434782608696,661530
+"181","Oakland Athletics",88.5136363636364,661942
+"182","Tampa Bay Rays",85.9827586206897,661942
+"183","Chicago White Sox",85.7695652173913,661529
+"184","Seattle Mariners",80.5615384615385,661529
+"185","Milwaukee Brewers",89.5181818181818,661292
+"186","St. Louis Cardinals",81.0307692307692,661292
+"187","Pittsburgh Pirates",89.7230769230769,662307
+"188","Washington Nationals",85.9333333333333,662307
+"189","Miami Marlins",86.0619047619048,661418
+"190","Philadelphia Phillies",85.0551724137931,661418
+"191","New York Yankees",93.075,661312
+"192","Toronto Blue Jays",85.15,661312
+"193","Los Angeles Angels",91.6875,661993
+"194","Texas Rangers",86.640625,661993
+"195","Detroit Tigers",89.4777777777778,662702
+"196","Kansas City Royals",85.037037037037,662702
+"197","Atlanta Braves",87.2695652173913,662237
+"198","San Diego Padres",87.2085714285714,662237
+"199","Chicago Cubs",87.6275862068966,662950
+"200","Colorado Rockies",86.6448275862069,662950
+"201","Cincinnati Reds",85.9461538461538,662627
+"202","Los Angeles Dodgers",87.5413793103448,662627
+"203","Arizona Diamondbacks",86.1555555555556,662485
+"204","New York Mets",87.62,662485
+"205","Boston Red Sox",87.665,663265
+"206","Minnesota Twins",94.1809523809524,663265
+"207","Pittsburgh Pirates",85.7681818181818,662291
+"208","Washington Nationals",86.67,662291
+"209","Miami Marlins",93.2615384615385,661417
+"210","Philadelphia Phillies",86.7964285714286,661417
+"211","Baltimore Orioles",90.0962962962963,663357
+"212","New York Yankees",82.6791666666667,663357
+"213","Oakland Athletics",88.1318181818182,661792
+"214","Toronto Blue Jays",89.1259259259259,661792
+"215","Cleveland Guardians",85.4736842105263,663136
+"216","San Francisco Giants",93.4407407407407,663136
+"217","Chicago White Sox",89.5166666666667,661528
+"218","Tampa Bay Rays",82.6105263157895,661528
+"219","Los Angeles Angels",92.356,662014
+"220","Texas Rangers",87.992,662014
+"221","Detroit Tigers",86.5086956521739,662701
+"222","Kansas City Royals",87.4636363636364,662701
+"223","Milwaukee Brewers",87.372,661267
+"224","St. Louis Cardinals",86.3090909090909,661267
+"225","Chicago Cubs",91.8129032258065,662960
+"226","Colorado Rockies",91,662960
+"227","Atlanta Braves",90.5461538461538,662236
+"228","San Diego Padres",88.3352941176471,662236
+"229","Houston Astros",88.2714285714286,662192
+"230","Seattle Mariners",89.3466666666667,662192
+"231","Cincinnati Reds",82.6538461538462,662620
+"232","Los Angeles Dodgers",89.3454545454545,662620
+"233","Arizona Diamondbacks",89.5,662626
+"234","New York Mets",85.1833333333333,662626
+"235","Chicago White Sox",91.85,661527
+"236","Tampa Bay Rays",90.2578947368421,661527
+"237","Oakland Athletics",88.4464285714286,661759
+"238","Toronto Blue Jays",87.424,661759
+"239","Atlanta Braves",89.2678571428571,662235
+"240","San Diego Padres",89,662235
+"241","Detroit Tigers",86.1105263157895,662798
+"242","Kansas City Royals",87.192,662798
+"243","Boston Red Sox",87.32,663238
+"244","Minnesota Twins",92.6157894736842,663238
+"245","Cleveland Guardians",92.1925925925926,663076
+"246","San Francisco Giants",87.6416666666667,663076
+"247","Miami Marlins",88.552,661416
+"248","Philadelphia Phillies",93.7814814814815,661416
+"249","Pittsburgh Pirates",89.1807692307692,662290
+"250","Washington Nationals",87.053125,662290
+"251","Los Angeles Angels",91.4172413793103,661981
+"252","Texas Rangers",88.0666666666667,661981
+"253","Baltimore Orioles",91.1807692307692,663266
+"254","New York Yankees",90.275,663266
+"255","Milwaukee Brewers",90.7333333333333,661335
+"256","St. Louis Cardinals",86.9107142857143,661335
+"257","Chicago Cubs",90.25625,662966
+"258","Colorado Rockies",91.7285714285714,662966
+"259","Houston Astros",92.7571428571429,662206
+"260","Seattle Mariners",88.415,662206
+"261","Cincinnati Reds",87.8888888888889,662619
+"262","Los Angeles Dodgers",89.8666666666667,662619
+"263","Baltimore Orioles",87.5705882352941,663365
+"264","New York Yankees",89.91,663365
+"265","Pittsburgh Pirates",89.1782608695652,662294
+"266","Washington Nationals",86.5555555555556,662294
+"267","Boston Red Sox",92.1866666666667,663308
+"268","Minnesota Twins",88.2105263157895,663308
+"269","Oakland Athletics",89.4416666666667,661804
+"270","Toronto Blue Jays",92.552,661804
+"271","Arizona Diamondbacks",88.0318181818182,662625
+"272","New York Mets",85.0107142857143,662625
+"273","Cleveland Guardians",90.436,663132
+"274","San Francisco Giants",89.5607142857143,663132
+"275","Miami Marlins",82.9137931034483,661415
+"276","Philadelphia Phillies",85.4666666666667,661415
+"277","Chicago White Sox",88.21,661462
+"278","Tampa Bay Rays",90.64,661462
+"279","Milwaukee Brewers",87.9291666666667,661226
+"280","St. Louis Cardinals",84.5772727272727,661226
+"281","Los Angeles Angels",85.0346153846154,662038
+"282","Texas Rangers",94.004347826087,662038
+"283","Chicago Cubs",89.59375,662930
+"284","Colorado Rockies",84.4269230769231,662930
+"285","Cincinnati Reds",92.3333333333333,662618
+"286","Los Angeles Dodgers",93.8333333333333,662618
+"287","Houston Astros",85,662174
+"288","Seattle Mariners",87.8709677419355,662174
+"289","Atlanta Braves",94.9238095238095,662234
+"290","San Diego Padres",84.94,662234
+"291","Boston Red Sox",91.3846153846154,663236
+"292","Minnesota Twins",88.9551724137931,663236
+"293","Chicago Cubs",94.5277777777778,663197
+"294","Tampa Bay Rays",85.9105263157895,663197
+"295","Milwaukee Brewers",87.6944444444444,661242
+"296","Pittsburgh Pirates",87.8777777777778,661242
+"297","Houston Astros",87.408,662928
+"298","Los Angeles Angels",86.1157894736842,662928
+"299","Colorado Rockies",89.712,662929
+"300","Philadelphia Phillies",89.432,662929
+"301","Baltimore Orioles",88.9363636363636,662407
+"302","Oakland Athletics",89.2407407407407,662407
+"303","Cincinnati Reds",89.6913043478261,662233
+"304","San Diego Padres",82.33,662233
+"305","Atlanta Braves",87.436,662617
+"306","Los Angeles Dodgers",95.375,662617
+"307","Chicago White Sox",87.4,663087
+"308","Cleveland Guardians",90.264,663087
+"309","Arizona Diamondbacks",92.8222222222222,662587
+"310","Washington Nationals",83.0047619047619,662587
+"311","Arizona Diamondbacks",89.5217391304348,662583
+"312","Washington Nationals",86.8826086956522,662583
+"313","New York Mets",83.104,662350
+"314","San Francisco Giants",89.18,662350
+"315","New York Mets",84.0416666666667,662616
+"316","San Francisco Giants",87.3222222222222,662616
+"317","Miami Marlins",85.6666666666667,661405
+"318","St. Louis Cardinals",90.9928571428571,661405
+"319","Detroit Tigers",85.1578947368421,662896
+"320","New York Yankees",89.2952380952381,662896
+"321","Boston Red Sox",88.1681818181818,663249
+"322","Toronto Blue Jays",90.244,663249
+"323","Chicago Cubs",88.6846153846154,663196
+"324","Tampa Bay Rays",91.662962962963,663196
+"325","Milwaukee Brewers",92.0411764705882,661211
+"326","Pittsburgh Pirates",92.7555555555556,661211
+"327","Houston Astros",90.0518518518519,662927
+"328","Los Angeles Angels",92.0076923076923,662927
+"329","Kansas City Royals",88.5875,662753
+"330","Minnesota Twins",88.99,662753
+"331","Colorado Rockies",84.4625,662925
+"332","Philadelphia Phillies",92.4357142857143,662925
+"333","Baltimore Orioles",90.962962962963,662406
+"334","Oakland Athletics",86.4181818181818,662406
+"335","Cincinnati Reds",88.7434782608696,662232
+"336","San Diego Padres",87.295652173913,662232
+"337","Seattle Mariners",86.492,662161
+"338","Texas Rangers",90.0321428571429,662161
+"339","Atlanta Braves",87.2933333333333,662717
+"340","Los Angeles Dodgers",82.2611111111111,662717
+"341","Chicago White Sox",85.515,663075
+"342","Cleveland Guardians",87.1315789473684,663075
+"343","Milwaukee Brewers",85.4791666666667,661203
+"344","Pittsburgh Pirates",86.8222222222222,661203
+"345","Chicago White Sox",89.5142857142857,663094
+"346","Cleveland Guardians",90.5625,663094
+"347","Chicago White Sox",85.515,663075
+"348","Cleveland Guardians",87.1315789473684,663075
+"349","Colorado Rockies",86.3896551724138,662924
+"350","Philadelphia Phillies",95.296875,662924
+"351","Atlanta Braves",88.785,662734
+"352","Los Angeles Dodgers",85.1166666666667,662734
+"353","Cincinnati Reds",86.5333333333333,662231
+"354","San Diego Padres",88.0791666666667,662231
+"355","Baltimore Orioles",88.9833333333333,662392
+"356","Oakland Athletics",86.735,662392
+"357","Chicago Cubs",85.6428571428571,663146
+"358","Tampa Bay Rays",91.6277777777778,663146
+"359","Houston Astros",84.5538461538462,662926
+"360","Los Angeles Angels",89.6428571428571,662926
+"361","Miami Marlins",86.5857142857143,661404
+"362","St. Louis Cardinals",86.595652173913,661404
+"363","Detroit Tigers",79.4407407407407,662861
+"364","New York Yankees",90.548,662861
+"365","Arizona Diamondbacks",90.1441176470588,662560
+"366","Washington Nationals",87.004,662560
+"367","New York Mets",83.3333333333333,662349
+"368","San Francisco Giants",82.9695652173913,662349
+"369","Boston Red Sox",91.225,663247
+"370","Toronto Blue Jays",90.388,663247
+"371","Kansas City Royals",85.39,662703
+"372","Minnesota Twins",87.895652173913,662703
+"373","Seattle Mariners",87.3708333333333,662178
+"374","Texas Rangers",91.5678571428571,662178
+"375","New York Mets",88.9740740740741,662593
+"376","San Francisco Giants",86.9142857142857,662593
+"377","Chicago White Sox",89.1259259259259,663093
+"378","Cleveland Guardians",83.3878787878788,663093
+"379","Detroit Tigers",84.2875,662850
+"380","New York Yankees",91.7068965517241,662850
+"381","Boston Red Sox",86.595652173913,663225
+"382","Toronto Blue Jays",94.6384615384615,663225
+"383","Kansas City Royals",88.98,662742
+"384","Minnesota Twins",88.7037037037037,662742
+"385","Baltimore Orioles",90.2652173913043,662391
+"386","Oakland Athletics",89.4035714285714,662391
+"387","Arizona Diamondbacks",92.5923076923077,662558
+"388","Washington Nationals",89.2083333333333,662558
+"389","Miami Marlins",87.832,661391
+"390","St. Louis Cardinals",86.5105263157895,661391
+"391","Chicago Cubs",86.3166666666667,663145
+"392","Pittsburgh Pirates",83.8909090909091,663145
+"393","Seattle Mariners",93.6772727272727,662177
+"394","Texas Rangers",88.6107142857143,662177
+"395","Cincinnati Reds",89.1083333333333,663169
+"396","St. Louis Cardinals",84.1103448275862,663169
+"397","San Francisco Giants",88.4357142857143,662557
+"398","Washington Nationals",88.7166666666667,662557
+"399","Cleveland Guardians",90.625,661311
+"400","New York Yankees",92.5090909090909,661311
+"401","Milwaukee Brewers",84.9047619047619,661621
+"402","Philadelphia Phillies",90.9782608695652,661621
+"403","Boston Red Sox",88.0896551724138,661914
+"404","Tampa Bay Rays",92.4884615384615,661914
+"405","Atlanta Braves",85.5041666666667,661569
+"406","Miami Marlins",88.61875,661569
+"407","Chicago Cubs",89.3217391304348,663195
+"408","Pittsburgh Pirates",81.952,663195
+"409","Houston Astros",82.4416666666667,662922
+"410","Toronto Blue Jays",92.1307692307692,662922
+"411","Chicago White Sox",83.7863636363636,661755
+"412","Minnesota Twins",90.2666666666667,661755
+"413","Baltimore Orioles",92.1428571428571,661037
+"414","Los Angeles Angels",88.5142857142857,661037
+"415","Arizona Diamondbacks",87.6192307692308,663394
+"416","New York Mets",83.45,663394
+"417","Los Angeles Dodgers",88.7592592592593,662230
+"418","San Diego Padres",88.5285714285714,662230
+"419","Kansas City Royals",92.724,662175
+"420","Seattle Mariners",82.5708333333333,662175
+"421","Oakland Athletics",89.1105263157895,662390
+"422","Texas Rangers",91.1538461538462,662390
+"423","San Francisco Giants",91.6178571428571,662549
+"424","Washington Nationals",86.6916666666667,662549
+"425","Cleveland Guardians",85.2142857142857,661310
+"426","New York Yankees",96.3307692307692,661310
+"427","Colorado Rockies",86.4227272727273,662848
+"428","Detroit Tigers",91.3058823529412,662848
+"429","Colorado Rockies",84.1315789473684,662849
+"430","Detroit Tigers",84.2809523809524,662849
+"431","Chicago Cubs",87.8441860465116,663144
+"432","Pittsburgh Pirates",86.408,663144
+"433","Chicago White Sox",86.5739130434783,661752
+"434","Minnesota Twins",91.9185185185185,661752
+"435","Milwaukee Brewers",88.8230769230769,661620
+"436","Philadelphia Phillies",89.388,661620
+"437","Oakland Athletics",90.3272727272727,662389
+"438","Texas Rangers",89.6333333333333,662389
+"439","Cincinnati Reds",82.89,663100
+"440","St. Louis Cardinals",83.2333333333333,663100
+"441","Houston Astros",88.0291666666667,662875
+"442","Toronto Blue Jays",93.8310344827586,662875
+"443","Boston Red Sox",87.2851851851852,661941
+"444","Tampa Bay Rays",93.9833333333333,661941
+"445","Atlanta Braves",93.1192307692308,661568
+"446","Miami Marlins",87.5566666666667,661568
+"447","Arizona Diamondbacks",87.1851851851852,663384
+"448","New York Mets",89.4636363636364,663384
+"449","Los Angeles Dodgers",86.3952380952381,662276
+"450","San Diego Padres",83.2826086956522,662276
+"451","Baltimore Orioles",88.3115384615385,661035
+"452","Los Angeles Angels",90.8592592592593,661035
+"453","Kansas City Royals",89.862962962963,662191
+"454","Seattle Mariners",91.21,662191
+"455","Colorado Rockies",85.759375,662853
+"456","Detroit Tigers",88.8962962962963,662853
+"457","Boston Red Sox",87.375,661931
+"458","Tampa Bay Rays",90.062962962963,661931
+"459","San Francisco Giants",90.7705882352941,662539
+"460","Washington Nationals",82.884,662539
+"461","Atlanta Braves",88.01,661590
+"462","Miami Marlins",86.604,661590
+"463","Cleveland Guardians",83.5090909090909,661317
+"464","New York Yankees",91.9555555555556,661317
+"465","Cincinnati Reds",90.6608695652174,663111
+"466","St. Louis Cardinals",90.8958333333333,663111
+"467","Houston Astros",88.0285714285714,662921
+"468","Toronto Blue Jays",89.1103448275862,662921
+"469","Chicago White Sox",91.04,661781
+"470","Minnesota Twins",90.1217391304348,661781
+"471","Chicago Cubs",84.404,663166
+"472","Pittsburgh Pirates",83.9583333333333,663166
+"473","Baltimore Orioles",93.7904761904762,661033
+"474","Los Angeles Angels",87.7208333333333,661033
+"475","Oakland Athletics",90.9,662388
+"476","Texas Rangers",87.436,662388
+"477","Arizona Diamondbacks",88.2125,663361
+"478","New York Mets",89.0387096774193,663361
+"479","Los Angeles Dodgers",90.0259259259259,662274
+"480","San Diego Padres",84.2333333333333,662274
+"481","Kansas City Royals",89.32,662188
+"482","Seattle Mariners",86.534375,662188
+"483","Milwaukee Brewers",87.1,661640
+"484","Philadelphia Phillies",87.75625,661640
+"485","Milwaukee Brewers",84.3695652173913,661210
+"486","San Francisco Giants",88.53125,661210
+"487","Colorado Rockies",90.2833333333333,661639
+"488","Philadelphia Phillies",90.1185185185185,661639
+"489","Boston Red Sox",94.3111111111111,661760
+"490","Toronto Blue Jays",89.488,661760
+"491","New York Mets",83.5206896551724,662008
+"492","St. Louis Cardinals",83.26,662008
+"493","Houston Astros",88.5115384615385,661979
+"494","Texas Rangers",86.8724137931034,661979
+"495","Cleveland Guardians",85.7260869565217,661034
+"496","Los Angeles Angels",92.4782608695652,661034
+"497","Arizona Diamondbacks",93.0705882352941,663382
+"498","Los Angeles Dodgers",88.3892857142857,663382
+"499","Milwaukee Brewers",87.8625,662297
+"500","Pittsburgh Pirates",88.3625,662297
+"501","Cincinnati Reds",88.396,663079
+"502","San Diego Padres",86.9142857142857,663079
+"503","Seattle Mariners",87.5878787878788,661929
+"504","Tampa Bay Rays",89.6086956521739,661929
+"505","Colorado Rockies",80.6851851851852,661567
+"506","Philadelphia Phillies",92.0793103448276,661567
+"507","Miami Marlins",86.875,662540
+"508","Washington Nationals",82.9375,662540
+"509","Baltimore Orioles",86.9615384615385,661309
+"510","New York Yankees",93.6448275862069,661309
+"511","Boston Red Sox",89.4625,661758
+"512","Toronto Blue Jays",89.976,661758
+"513","Chicago White Sox",84.9454545454545,661536
+"514","Kansas City Royals",84.42,661536
+"515","Atlanta Braves",93.7541666666667,661589
+"516","Chicago Cubs",85.9583333333333,661589
+"517","Detroit Tigers",86.8954545454545,661733
+"518","Minnesota Twins",90.4473684210526,661733
+"519","New York Mets",91.0107142857143,662007
+"520","St. Louis Cardinals",85.995,662007
+"521","Houston Astros",91.55,661980
+"522","Texas Rangers",91.7863636363636,661980
+"523","Cleveland Guardians",88.0157894736842,661032
+"524","Los Angeles Angels",94.7291666666667,661032
+"525","Arizona Diamondbacks",87.6473684210526,663383
+"526","Los Angeles Dodgers",90.3541666666667,663383
+"527","Oakland Athletics",93.9823529411765,662086
+"528","San Francisco Giants",83.296,662086
+"529","New York Mets",89.8884615384615,662048
+"530","St. Louis Cardinals",89.4448275862069,662048
+"531","Chicago White Sox",91.0791666666667,661533
+"532","Kansas City Royals",84.8611111111111,661533
+"533","Arizona Diamondbacks",82.1545454545455,663393
+"534","Los Angeles Dodgers",90.8695652173913,663393
+"535","Milwaukee Brewers",92.1115384615385,662289
+"536","Pittsburgh Pirates",82.0461538461538,662289
+"537","Cincinnati Reds",87.6695652173913,663148
+"538","San Diego Padres",90.5107142857143,663148
+"539","Seattle Mariners",95.305,661909
+"540","Tampa Bay Rays",91.0521739130435,661909
+"541","Colorado Rockies",84.5655172413793,661638
+"542","Philadelphia Phillies",88.8461538461538,661638
+"543","Miami Marlins",84.2333333333333,662546
+"544","Washington Nationals",84.604347826087,662546
+"545","Baltimore Orioles",82.6545454545455,661306
+"546","New York Yankees",92.2608695652174,661306
+"547","Boston Red Sox",87.65,661757
+"548","Toronto Blue Jays",92.8869565217391,661757
+"549","Atlanta Braves",86.6576923076923,661552
+"550","Chicago Cubs",85.2965517241379,661552
+"551","Detroit Tigers",88.2055555555555,661739
+"552","Minnesota Twins",91.9821428571429,661739
+"553","Houston Astros",89.1333333333333,661964
+"554","Texas Rangers",88.076,661964
+"555","Cleveland Guardians",91.1965517241379,663439
+"556","Los Angeles Angels",93.9310344827586,663439
+"557","Oakland Athletics",93.6545454545455,662066
+"558","San Francisco Giants",82.45,662066
+"559","Cincinnati Reds",93.5925925925926,663078
+"560","San Diego Padres",88.4892857142857,663078
+"561","Milwaukee Brewers",89.1727272727273,662295
+"562","Pittsburgh Pirates",86.0090909090909,662295
+"563","Colorado Rockies",87.9473684210526,661641
+"564","Philadelphia Phillies",89.2055555555555,661641
+"565","Miami Marlins",91.8130434782609,662538
+"566","Washington Nationals",83.1739130434783,662538
+"567","Baltimore Orioles",82.525,661305
+"568","New York Yankees",94.4541666666667,661305
+"569","Seattle Mariners",83.9047619047619,661908
+"570","Tampa Bay Rays",86.7818181818182,661908
+"571","Detroit Tigers",87.95,661729
+"572","Minnesota Twins",92.6208333333333,661729
+"573","Houston Astros",88.1166666666667,661912
+"574","Texas Rangers",84.6272727272727,661912
+"575","Chicago White Sox",87.65,661532
+"576","Kansas City Royals",88.1423076923077,661532
+"577","Boston Red Sox",91.7347826086957,661827
+"578","Toronto Blue Jays",92.6615384615385,661827
+"579","Cleveland Guardians",86.5136363636364,663432
+"580","Los Angeles Angels",81.15,663432
+"581","Atlanta Braves",87.3925925925926,661551
+"582","Chicago Cubs",87.38125,661551
+"583","Arizona Diamondbacks",90.9615384615385,662047
+"584","St. Louis Cardinals",91.4411764705882,662047
+"585","Pittsburgh Pirates",84.8620689655172,662296
+"586","San Diego Padres",91.275,662296
+"587","Miami Marlins",93.1695652173913,661390
+"588","Seattle Mariners",89.5607142857143,661390
+"589","Baltimore Orioles",89.4809523809524,663337
+"590","Boston Red Sox",90.5172413793103,663337
+"591","Houston Astros",92.9655172413793,661826
+"592","Toronto Blue Jays",92.8,661826
+"593","Minnesota Twins",89.2714285714286,661907
+"594","Tampa Bay Rays",85.2227272727273,661907
+"595","New York Mets",89.0888888888889,662592
+"596","Philadelphia Phillies",85.0285714285714,662592
+"597","Chicago White Sox",91.3416666666667,661535
+"598","Los Angeles Angels",84.2285714285714,661535
+"599","Atlanta Braves",94.3136363636364,661911
+"600","Texas Rangers",91.6269230769231,661911
+"601","Kansas City Royals",91.9346153846154,662741
+"602","New York Yankees",93.3241379310345,662741
+"603","Chicago Cubs",89.5142857142857,661209
+"604","Milwaukee Brewers",90.2888888888889,661209
+"605","Arizona Diamondbacks",86.9961538461538,662037
+"606","St. Louis Cardinals",88.2037037037037,662037
+"607","Cincinnati Reds",89.9,663009
+"608","Colorado Rockies",90.3357142857143,663009
+"609","Cleveland Guardians",90.304,662405
+"610","Oakland Athletics",87.6,662405
+"611","Detroit Tigers",89.4933333333333,662699
+"612","Los Angeles Dodgers",90.3631578947368,662699
+"613","San Francisco Giants",95.4807692307692,662081
+"614","Washington Nationals",87.9731707317073,662081
+"615","Arizona Diamondbacks",84.58,662036
+"616","St. Louis Cardinals",87.956,662036
+"617","Houston Astros",88.2333333333333,661825
+"618","Toronto Blue Jays",90.3130434782609,661825
+"619","San Francisco Giants",90.9925925925926,662084
+"620","Washington Nationals",85.9592592592593,662084
+"621","Chicago White Sox",91.324,661534
+"622","Los Angeles Angels",88.6416666666667,661534
+"623","Cleveland Guardians",85.2807692307692,662393
+"624","Oakland Athletics",90.9923076923077,662393
+"625","Minnesota Twins",92.1785714285714,661906
+"626","Tampa Bay Rays",89.26,661906
+"627","Miami Marlins",92.6117647058824,661389
+"628","Seattle Mariners",84.185,661389
+"629","Pittsburgh Pirates",94.6111111111111,662288
+"630","San Diego Padres",88.2535714285714,662288
+"631","Baltimore Orioles",89.5541666666667,663364
+"632","Boston Red Sox",90.7266666666667,663364
+"633","Atlanta Braves",79.8391304347826,661901
+"634","Texas Rangers",90.055,661901
+"635","New York Mets",86.7,662591
+"636","Philadelphia Phillies",91.58,662591
+"637","Kansas City Royals",87.8111111111111,662797
+"638","New York Yankees",86.7851851851852,662797
+"639","Chicago Cubs",89.8529411764706,661208
+"640","Milwaukee Brewers",90.4347826086957,661208
+"641","Cincinnati Reds",96.2260869565217,663008
+"642","Colorado Rockies",87.9136363636364,663008
+"643","Detroit Tigers",89.3782608695652,662698
+"644","Los Angeles Dodgers",87.096,662698
+"645","Baltimore Orioles",90.6466666666667,663363
+"646","Boston Red Sox",89.2758620689655,663363
+"647","Minnesota Twins",92.79375,661905
+"648","Tampa Bay Rays",91.6375,661905
+"649","Pittsburgh Pirates",83.8608695652174,662293
+"650","San Diego Padres",89.88125,662293
+"651","Houston Astros",87.8565217391304,661824
+"652","Toronto Blue Jays",88.5521739130435,661824
+"653","Miami Marlins",88.2066666666667,661365
+"654","Seattle Mariners",89.808,661365
+"655","Chicago White Sox",90.5705882352941,661531
+"656","Los Angeles Angels",87.6076923076923,661531
+"657","Kansas City Royals",91.45,662691
+"658","New York Yankees",88.6185185185185,662691
+"659","Chicago Cubs",84.625,661216
+"660","Milwaukee Brewers",85.5,661216
+"661","Arizona Diamondbacks",92.5142857142857,661988
+"662","St. Louis Cardinals",81.7392857142857,661988
+"663","Atlanta Braves",94.7130434782609,661935
+"664","Texas Rangers",85.984,661935
+"665","Cincinnati Reds",87.2125,663007
+"666","Colorado Rockies",89.675,663007
+"667","San Francisco Giants",87.28,662106
+"668","Washington Nationals",85.490625,662106
+"669","Cleveland Guardians",89.1483870967742,662397
+"670","Oakland Athletics",92.9478260869565,662397
+"671","Detroit Tigers",85.8434782608696,662716
+"672","Los Angeles Dodgers",83.98,662716
+"673","New York Mets",85.97,662579
+"674","Philadelphia Phillies",90.504347826087,662579
+"675","Kansas City Royals",90.2125,662009
+"676","St. Louis Cardinals",87.795652173913,662009
+"677","Chicago White Sox",89.3230769230769,661526
+"678","Los Angeles Angels",86.9571428571429,661526
+"679","Arizona Diamondbacks",87.9045454545455,661362
+"680","Miami Marlins",88.8035714285714,661362
+"681","Baltimore Orioles",89.25,663362
+"682","Minnesota Twins",92.0666666666667,663362
+"683","New York Yankees",88.3931034482759,661823
+"684","Toronto Blue Jays",91.35,661823
+"685","Atlanta Braves",84.1652173913044,662578
+"686","New York Mets",84.15,662578
+"687","Houston Astros",84.2071428571429,662920
+"688","Seattle Mariners",87.7782608695652,662920
+"689","Oakland Athletics",82.5,662387
+"690","Tampa Bay Rays",90.3354838709677,662387
+"691","Atlanta Braves",86.6285714285714,662569
+"692","New York Mets",83.9538461538462,662569
+"693","Atlanta Braves",86.3111111111111,662459
+"694","New York Mets",87.3653846153846,662459
+"695","Arizona Diamondbacks",91.496,661364
+"696","Miami Marlins",86.6538461538462,661364
+"697","Philadelphia Phillies",89.037037037037,661635
+"698","Texas Rangers",92.9192307692308,661635
+"699","Baltimore Orioles",86.6961538461538,663463
+"700","Minnesota Twins",93.0793103448276,663463
+"701","New York Yankees",91.4730769230769,661796
+"702","Toronto Blue Jays",91.937037037037,661796
+"703","Boston Red Sox",87.5310344827586,663237
+"704","Los Angeles Angels",86.7136363636364,663237
+"705","Chicago Cubs",92.0055555555556,663165
+"706","Chicago White Sox",89.4038461538461,663165
+"707","Cincinnati Reds",85.9647058823529,661200
+"708","Milwaukee Brewers",93.3681818181818,661200
+"709","Houston Astros",87.4291666666667,662919
+"710","Seattle Mariners",87.5347826086957,662919
+"711","Kansas City Royals",91.321875,662690
+"712","St. Louis Cardinals",89.6392857142857,662690
+"713","Colorado Rockies",91.3633333333333,662994
+"714","Washington Nationals",88.3787878787879,662994
+"715","Oakland Athletics",88.5241379310345,662386
+"716","Tampa Bay Rays",88.3393939393939,662386
+"717","Los Angeles Dodgers",92.0875,662708
+"718","San Francisco Giants",87.4173913043478,662708
+"719","Cleveland Guardians",87.6181818181818,663068
+"720","San Diego Padres",86.835,663068
+"721","Detroit Tigers",86.9285714285714,662839
+"722","Pittsburgh Pirates",90.615625,662839
+"723","Arizona Diamondbacks",87.4571428571429,661363
+"724","Miami Marlins",91.6892857142857,661363
+"725","Detroit Tigers",90.8421052631579,662838
+"726","Pittsburgh Pirates",91.6181818181818,662838
+"727","Detroit Tigers",86.9285714285714,662839
+"728","Pittsburgh Pirates",90.615625,662839
+"729","Cleveland Guardians",82.9571428571429,663067
+"730","San Diego Padres",86.4652173913043,663067
+"731","Cleveland Guardians",87.6181818181818,663068
+"732","San Diego Padres",86.835,663068
+"733","Kansas City Royals",84.8535714285714,662739
+"734","St. Louis Cardinals",88.0064516129032,662739
+"735","Atlanta Braves",89.3636363636364,662577
+"736","New York Mets",90.0518518518519,662577
+"737","Houston Astros",89.3954545454545,662835
+"738","Seattle Mariners",89.956,662835
+"739","Oakland Athletics",83.9,662382
+"740","Tampa Bay Rays",87.0653846153846,662382
+"741","Philadelphia Phillies",91.8111111111111,661634
+"742","Texas Rangers",87.6458333333333,661634
+"743","Baltimore Orioles",89.6407407407407,663462
+"744","Minnesota Twins",90.3913043478261,663462
+"745","New York Yankees",92.8714285714286,661795
+"746","Toronto Blue Jays",89.1,661795
+"747","Boston Red Sox",91.8142857142857,663248
+"748","Los Angeles Angels",92.8857142857143,663248
+"749","Chicago Cubs",90.4105263157895,663164
+"750","Chicago White Sox",88.1518518518518,663164
+"751","Cincinnati Reds",87.7,661197
+"752","Milwaukee Brewers",89.8676470588235,661197
+"753","Colorado Rockies",88.178125,662993
+"754","Washington Nationals",97.2631578947368,662993
+"755","Los Angeles Dodgers",89.275,662707
+"756","San Francisco Giants",86.0416666666667,662707
+"757","Boston Red Sox",79.625,663227
+"758","Los Angeles Angels",87.5434782608696,663227
+"759","Cincinnati Reds",82.988,661204
+"760","Milwaukee Brewers",99.0333333333333,661204
+"761","Colorado Rockies",90.8954545454545,663013
+"762","Washington Nationals",90.3714285714286,663013
+"763","Cleveland Guardians",85.7,663066
+"764","Toronto Blue Jays",91.408,663066
+"765","New York Mets",87.8896551724138,661619
+"766","Philadelphia Phillies",91.4333333333333,661619
+"767","Baltimore Orioles",95.2136363636364,661341
+"768","Minnesota Twins",87.7666666666667,661341
+"769","Detroit Tigers",87.7965517241379,662816
+"770","Houston Astros",92.16,662816
+"771","Seattle Mariners",85.6565217391304,662189
+"772","Tampa Bay Rays",85.932,662189
+"773","Miami Marlins",86.076,662262
+"774","San Diego Padres",90.3157894736842,662262
+"775","San Francisco Giants",89.4068965517241,662105
+"776","St. Louis Cardinals",85.3451612903226,662105
+"777","Boston Red Sox",91.3130434782609,663224
+"778","Chicago White Sox",90.4666666666667,663224
+"779","Atlanta Braves",90.3166666666667,661541
+"780","Milwaukee Brewers",91.95,661541
+"781","Detroit Tigers",85.0157894736842,662815
+"782","Houston Astros",88.5814814814815,662815
+"783","Minnesota Twins",93.8625,661775
+"784","Oakland Athletics",88.4631578947368,661775
+"785","Los Angeles Angels",86.28125,663431
+"786","Washington Nationals",90.6,663431
+"787","Arizona Diamondbacks",85.8478260869565,663360
+"788","Colorado Rockies",87.0166666666667,663360
+"789","Seattle Mariners",92.2727272727273,662187
+"790","Tampa Bay Rays",89.7785714285714,662187
+"791","Miami Marlins",88.8586206896552,662272
+"792","San Diego Padres",89.035,662272
+"793","San Francisco Giants",83.7869565217391,662103
+"794","St. Louis Cardinals",82.4105263157895,662103
+"795","Baltimore Orioles",88.268,661345
+"796","Kansas City Royals",88.275,661345
+"797","Cleveland Guardians",87.241935483871,663057
+"798","Toronto Blue Jays",91.0333333333333,663057
+"799","Cincinnati Reds",85.4904761904762,663089
+"800","Pittsburgh Pirates",94.0090909090909,663089
+"801","Cincinnati Reds",86.5086956521739,663070
+"802","Pittsburgh Pirates",89.408,663070
+"803","Chicago Cubs",90.6818181818182,663162
+"804","Los Angeles Dodgers",93.8620689655172,663162
+"805","Chicago Cubs",91.0045454545455,663142
+"806","Los Angeles Dodgers",87.478947368421,663142
+"807","Cleveland Guardians",88.8461538461538,663056
+"808","Toronto Blue Jays",90.4692307692308,663056
+"809","Cleveland Guardians",87.241935483871,663057
+"810","Toronto Blue Jays",91.0333333333333,663057
+"811","Minnesota Twins",89.1842105263158,661701
+"812","Oakland Athletics",84.8928571428571,661701
+"813","Detroit Tigers",84.632,662796
+"814","Houston Astros",88.2842105263158,662796
+"815","Boston Red Sox",87.4851851851852,663226
+"816","Chicago White Sox",94.8366666666667,663226
+"817","San Francisco Giants",87.2321428571429,662102
+"818","St. Louis Cardinals",87.9066666666667,662102
+"819","Atlanta Braves",92.5958333333333,661540
+"820","Milwaukee Brewers",91.92,661540
+"821","Arizona Diamondbacks",92.1833333333333,663359
+"822","Colorado Rockies",84.3851851851852,663359
+"823","Miami Marlins",87.95,662261
+"824","San Diego Padres",86.9185185185185,662261
+"825","Los Angeles Angels",92.2259259259259,663430
+"826","Washington Nationals",88.568,663430
+"827","Seattle Mariners",89.9375,662159
+"828","Tampa Bay Rays",92.44,662159
+"829","New York Mets",91.5807692307692,661627
+"830","Philadelphia Phillies",85.8307692307692,661627
+"831","Baltimore Orioles",91.8592592592593,661349
+"832","Kansas City Royals",87.6230769230769,661349
+"833","Boston Red Sox",87.5583333333333,663278
+"834","Chicago White Sox",86.125,663278
+"835","New York Mets",90.465,661626
+"836","Philadelphia Phillies",88.0478260869565,661626
+"837","New York Mets",91.5807692307692,661627
+"838","Philadelphia Phillies",85.8307692307692,661627
+"839","Baltimore Orioles",87.96,661307
+"840","Kansas City Royals",89.246875,661307
+"841","Baltimore Orioles",88.268,661345
+"842","Kansas City Royals",88.275,661345
+"843","New York Yankees",93.1521739130435,661302
+"844","Texas Rangers",90.3421052631579,661302
+"845","New York Yankees",93.8782608695652,661304
+"846","Texas Rangers",86.8625,661304
+"847","Atlanta Braves",90.0173913043478,661550
+"848","Milwaukee Brewers",94.0818181818182,661550
+"849","Cincinnati Reds",85.2666666666667,663069
+"850","Pittsburgh Pirates",87.1368421052632,663069
+"851","Cleveland Guardians",87.6692307692308,663086
+"852","Toronto Blue Jays",88.1272727272727,663086
+"853","Detroit Tigers",87.1470588235294,662795
+"854","Houston Astros",91.6875,662795
+"855","Minnesota Twins",89.6407407407407,661700
+"856","Oakland Athletics",86.9041666666667,661700
+"857","San Francisco Giants",90.6,662098
+"858","St. Louis Cardinals",83.5521739130435,662098
+"859","Los Angeles Angels",87.575,663429
+"860","Washington Nationals",87.3,663429
+"861","Arizona Diamondbacks",84.35,663368
+"862","Colorado Rockies",80.6318181818182,663368
+"863","Seattle Mariners",84.3037037037037,662160
+"864","Tampa Bay Rays",94.3052631578947,662160
+"865","Miami Marlins",89.5,662260
+"866","San Diego Padres",89.392,662260
+"867","Chicago Cubs",89.2913043478261,663161
+"868","Los Angeles Dodgers",89.7344827586207,663161
+"869","Baltimore Orioles",91.8592592592593,661349
+"870","Kansas City Royals",87.6230769230769,661349
+"871","New York Yankees",84.7611111111111,661303
+"872","Texas Rangers",89.2294117647059,661303
+"873","Los Angeles Dodgers",88.2916666666667,662287
+"874","Pittsburgh Pirates",86.6032258064516,662287
+"875","Cincinnati Reds",92.6076923076923,663101
+"876","Milwaukee Brewers",90.3958333333333,663101
+"877","Detroit Tigers",91.9666666666667,662837
+"878","Oakland Athletics",92.2384615384615,662837
+"879","Chicago White Sox",86.6,661525
+"880","Cleveland Guardians",88.1333333333333,661525
+"881","Los Angeles Angels",90.5074074074074,663438
+"882","Tampa Bay Rays",90.836,663438
+"883","Chicago Cubs",93.5296296296296,662259
+"884","San Diego Padres",83.97,662259
+"885","Philadelphia Phillies",91.8647058823529,662158
+"886","Seattle Mariners",81.9111111111111,662158
+"887","Arizona Diamondbacks",88.1142857142857,663366
+"888","Miami Marlins",92.8285714285714,663366
+"889","Colorado Rockies",86.325,662097
+"890","San Francisco Giants",89.6612903225806,662097
+"891","Detroit Tigers",89.1862068965517,662412
+"892","Oakland Athletics",87.0521739130435,662412
+"893","Detroit Tigers",86.5,662855
+"894","Oakland Athletics",90.9684210526316,662855
+"895","Los Angeles Dodgers",89.9193548387097,662292
+"896","Pittsburgh Pirates",83.9416666666667,662292
+"897","Cincinnati Reds",85.2631578947368,663090
+"898","Milwaukee Brewers",87.3296296296296,663090
+"899","New York Mets",91.56,662537
+"900","Washington Nationals",88.6782608695652,662537
+"901","New York Yankees",94.2,661301
+"902","Toronto Blue Jays",89.8411764705882,661301
+"903","Atlanta Braves",88.7260869565217,661549
+"904","Boston Red Sox",89.1107142857143,661549
+"905","Houston Astros",85.3535714285714,661696
+"906","Minnesota Twins",91.3636363636364,661696
+"907","Baltimore Orioles",88.9931034482759,661987
+"908","St. Louis Cardinals",90.8789473684211,661987
+"909","Kansas City Royals",88.2962962962963,662016
+"910","Texas Rangers",92.0153846153846,662016
+"911","Chicago White Sox",89.3464285714286,661524
+"912","Cleveland Guardians",85.1333333333333,661524
+"913","Los Angeles Angels",93.8777777777778,663416
+"914","Tampa Bay Rays",87.592,663416
+"915","Chicago Cubs",89.58,662258
+"916","San Diego Padres",90.7884615384615,662258
+"917","Philadelphia Phillies",92.9263157894737,662157
+"918","Seattle Mariners",85.016,662157
+"919","Arizona Diamondbacks",90.8291666666667,663350
+"920","Miami Marlins",88.7,663350
+"921","Colorado Rockies",86.1,662096
+"922","San Francisco Giants",92.52,662096
+"923","Los Angeles Dodgers",89.932,662385
+"924","Pittsburgh Pirates",91.3565217391304,662385
+"925","New York Yankees",90.4346153846154,661300
+"926","Toronto Blue Jays",87.4551724137931,661300
+"927","Cincinnati Reds",90.784375,663074
+"928","Milwaukee Brewers",91.1633333333333,663074
+"929","Philadelphia Phillies",89.25,662176
+"930","Seattle Mariners",89.748,662176
+"931","Arizona Diamondbacks",84.9130434782609,663358
+"932","Miami Marlins",86.3766666666667,663358
+"933","Colorado Rockies",86.12,662095
+"934","San Francisco Giants",87.4608695652174,662095
+"935","Chicago Cubs",94.4173913043478,662273
+"936","San Diego Padres",89.4806451612903,662273
+"937","New York Mets",91.484375,662526
+"938","Washington Nationals",86.2888888888889,662526
+"939","Los Angeles Angels",87.2380952380952,663450
+"940","Tampa Bay Rays",86.7125,663450
+"941","Detroit Tigers",87.1269230769231,662873
+"942","Oakland Athletics",89.9866666666667,662873
+"943","Atlanta Braves",88.7291666666667,661548
+"944","Boston Red Sox",90.6136363636364,661548
+"945","Houston Astros",91.9111111111111,661702
+"946","Minnesota Twins",91.1,661702
+"947","Baltimore Orioles",87.8521739130435,662006
+"948","St. Louis Cardinals",90.8241379310345,662006
+"949","Kansas City Royals",84.8935483870968,661899
+"950","Texas Rangers",88.7090909090909,661899
+"951","Chicago White Sox",83.3142857142857,661523
+"952","Cleveland Guardians",87.5705882352941,661523
+"953","New York Mets",86.175,662548
+"954","Washington Nationals",91.9875,662548
+"955","Detroit Tigers",84.8689655172414,662872
+"956","Oakland Athletics",88.5807692307692,662872
+"957","Houston Astros",91.9111111111111,661702
+"958","Minnesota Twins",91.1,661702
+"959","Baltimore Orioles",89.8,662005
+"960","St. Louis Cardinals",85.5857142857143,662005
+"961","Houston Astros",88.2346153846154,661694
+"962","Minnesota Twins",84.1904761904762,661694
+"963","Cincinnati Reds",89.8111111111111,662372
+"964","Pittsburgh Pirates",92.088,662372
+"965","Kansas City Royals",85.504347826087,661883
+"966","Texas Rangers",83.9666666666667,661883
+"967","Chicago White Sox",90.2107142857143,661519
+"968","New York Yankees",93.9259259259259,661519
+"969","Los Angeles Dodgers",90.1857142857143,662706
+"970","Philadelphia Phillies",89.392,662706
+"971","Cincinnati Reds",94.2451612903226,662494
+"972","Pittsburgh Pirates",90.5045454545455,662494
+"973","Miami Marlins",86.9666666666667,661361
+"974","Milwaukee Brewers",89.33,661361
+"975","Houston Astros",87.5037037037037,662525
+"976","Washington Nationals",91.2777777777778,662525
+"977","Baltimore Orioles",80.3692307692308,662851
+"978","Detroit Tigers",88.8809523809524,662851
+"979","New York Mets",89.825,662523
+"980","Seattle Mariners",87.15,662523
+"981","Tampa Bay Rays",84.1590909090909,661904
+"982","Toronto Blue Jays",90.1730769230769,661904
+"983","Atlanta Braves",89.4827586206897,661547
+"984","San Diego Padres",92.6705882352941,661547
+"985","Boston Red Sox",86.1925925925926,661882
+"986","Texas Rangers",91.5115384615385,661882
+"987","Cleveland Guardians",92.316,661698
+"988","Minnesota Twins",95.7185185185185,661698
+"989","Chicago White Sox",88.375,661491
+"990","New York Yankees",92.8848484848485,661491
+"991","San Francisco Giants",90.076,661986
+"992","St. Louis Cardinals",89.2103448275862,661986
+"993","Colorado Rockies",91.1617647058823,663012
+"994","Kansas City Royals",91.6324324324324,663012
+"995","Arizona Diamondbacks",84.9071428571429,663349
+"996","Chicago Cubs",88.5,663349
+"997","Los Angeles Angels",89.05,662381
+"998","Oakland Athletics",87.4571428571429,662381
+"999","Los Angeles Dodgers",89.453125,662705
+"1000","Philadelphia Phillies",88.7285714285714,662705
+"1001","San Francisco Giants",87.6384615384615,661985
+"1002","St. Louis Cardinals",89.6185185185185,661985
+"1003","Atlanta Braves",93.6277777777778,661546
+"1004","San Diego Padres",85.7476190476191,661546
+"1005","Los Angeles Angels",83.837037037037,662379
+"1006","Oakland Athletics",89.6590909090909,662379
+"1007","Los Angeles Angels",89.4655172413793,662399
+"1008","Oakland Athletics",86.5615384615385,662399
+"1009","Baltimore Orioles",89.0227272727273,662844
+"1010","Detroit Tigers",86.6458333333333,662844
+"1011","Tampa Bay Rays",88.54,661903
+"1012","Toronto Blue Jays",90.5678571428572,661903
+"1013","Miami Marlins",90.8481481481482,661414
+"1014","Milwaukee Brewers",86.3260869565217,661414
+"1015","Cincinnati Reds",87.8173913043478,662384
+"1016","Pittsburgh Pirates",91.2388888888889,662384
+"1017","Houston Astros",93.1153846153846,662547
+"1018","Washington Nationals",87.4444444444444,662547
+"1019","Boston Red Sox",88.778125,661147
+"1020","Texas Rangers",83.8481481481482,661147
+"1021","New York Mets",90.5214285714286,662568
+"1022","Seattle Mariners",82.9863636363636,662568
+"1023","Cleveland Guardians",88.45,661695
+"1024","Minnesota Twins",88.2633333333333,661695
+"1025","Chicago White Sox",85.6310344827586,661490
+"1026","New York Yankees",87.036,661490
+"1027","Arizona Diamondbacks",88.232,663348
+"1028","Chicago Cubs",87.6666666666667,663348
+"1029","Colorado Rockies",91.5,663011
+"1030","Kansas City Royals",88.9652173913043,663011
+"1031","Los Angeles Dodgers",88.3,662704
+"1032","Philadelphia Phillies",84.5310344827586,662704
+"1033","Atlanta Braves",87.0238095238095,661545
+"1034","San Diego Padres",87.8241379310345,661545
+"1035","Houston Astros",92.7,662528
+"1036","Washington Nationals",84.9954545454545,662528
+"1037","Cincinnati Reds",87.1652173913044,662519
+"1038","Pittsburgh Pirates",86.9666666666667,662519
+"1039","Baltimore Orioles",91.5,662843
+"1040","Detroit Tigers",83.0444444444444,662843
+"1041","New York Mets",89.7521739130435,662567
+"1042","Seattle Mariners",89.9117647058823,662567
+"1043","Tampa Bay Rays",82.0695652173913,661902
+"1044","Toronto Blue Jays",86.0375,661902
+"1045","Miami Marlins",90.9210526315789,661403
+"1046","Milwaukee Brewers",89.4966666666667,661403
+"1047","Cleveland Guardians",85.4833333333333,661732
+"1048","Minnesota Twins",93.2708333333333,661732
+"1049","Chicago White Sox",90.7,661489
+"1050","New York Yankees",93.0782608695652,661489
+"1051","Boston Red Sox",87.8,661146
+"1052","Texas Rangers",92.4434782608696,661146
+"1053","Colorado Rockies",92.3344827586207,663010
+"1054","Kansas City Royals",91.7033333333333,663010
+"1055","Los Angeles Angels",90.4380952380952,662380
+"1056","Oakland Athletics",87.604,662380
+"1057","Arizona Diamondbacks",87.6857142857143,663367
+"1058","Chicago Cubs",90.716,663367
+"1059","Los Angeles Dodgers",89.4772727272727,662696
+"1060","Philadelphia Phillies",88.8703703703704,662696
+"1061","San Francisco Giants",94.5037037037037,661984
+"1062","St. Louis Cardinals",87.4657894736842,661984
+"1063","Detroit Tigers",81.2833333333333,661961
+"1064","Tampa Bay Rays",90.9730769230769,661961
+"1065","Miami Marlins",90.6833333333333,661402
+"1066","Washington Nationals",83.5592592592593,661402
+"1067","Baltimore Orioles",84.3235294117647,661308
+"1068","New York Yankees",88.2307692307692,661308
+"1069","Seattle Mariners",87.8695652173913,661794
+"1070","Toronto Blue Jays",89.7391304347826,661794
+"1071","Boston Red Sox",86.824,663275
+"1072","Houston Astros",88.52,663275
+"1073","Chicago Cubs",87.1129032258064,663151
+"1074","Pittsburgh Pirates",85.0304347826087,663151
+"1075","Atlanta Braves",84.9230769230769,661212
+"1076","Milwaukee Brewers",85.3086956521739,661212
+"1077","Los Angeles Angels",96.768,661145
+"1078","Texas Rangers",90.508,661145
+"1079","Chicago White Sox",88.6272727272727,662728
+"1080","Kansas City Royals",91.67,662728
+"1081","Colorado Rockies",86.0185185185185,663005
+"1082","San Francisco Giants",87.5037037037037,663005
+"1083","Minnesota Twins",87.3777777777778,662378
+"1084","Oakland Athletics",85.975,662378
+"1085","Arizona Diamondbacks",88.2571428571429,662695
+"1086","Los Angeles Dodgers",87.7592592592593,662695
+"1087","Chicago White Sox",90.9192307692308,662780
+"1088","Kansas City Royals",89.2428571428571,662780
+"1089","Chicago White Sox",91.5954545454545,662727
+"1090","Kansas City Royals",93.9571428571429,662727
+"1091","Arizona Diamondbacks",83.9888888888889,662628
+"1092","Los Angeles Dodgers",92.1416666666667,662628
+"1093","Arizona Diamondbacks",84.45,662697
+"1094","Los Angeles Dodgers",90.4884615384615,662697
+"1095","New York Mets",85.5777777777778,662507
+"1096","St. Louis Cardinals",84.78,662507
+"1097","New York Mets",83.4047619047619,662566
+"1098","St. Louis Cardinals",89.4806451612903,662566
+"1099","Cincinnati Reds",89.772,663032
+"1100","Cleveland Guardians",85.4333333333333,663032
+"1101","Detroit Tigers",85.4208333333333,662053
+"1102","Tampa Bay Rays",91.9161290322581,662053
+"1103","Miami Marlins",87,661401
+"1104","Washington Nationals",81.9523809523809,661401
+"1105","Philadelphia Phillies",88.6857142857143,661625
+"1106","San Diego Padres",83.3206896551724,661625
+"1107","Baltimore Orioles",83.9888888888889,661342
+"1108","New York Yankees",90.3235294117647,661342
+"1109","Seattle Mariners",85.996,661765
+"1110","Toronto Blue Jays",88.4833333333333,661765
+"1111","Boston Red Sox",89.6157894736842,663271
+"1112","Houston Astros",91.4058823529412,663271
+"1113","Chicago Cubs",90.2947368421053,663157
+"1114","Pittsburgh Pirates",89.4176470588235,663157
+"1115","Atlanta Braves",87.972,661196
+"1116","Milwaukee Brewers",90.2636363636364,661196
+"1117","Los Angeles Angels",93.4416666666667,661126
+"1118","Texas Rangers",93.6782608695652,661126
+"1119","Colorado Rockies",86.0965517241379,663004
+"1120","San Francisco Giants",92.446875,663004
+"1121","Minnesota Twins",87.5458333333333,662370
+"1122","Oakland Athletics",86.5407407407407,662370
+"1123","Detroit Tigers",85.485,662054
+"1124","Tampa Bay Rays",91.1136363636364,662054
+"1125","Atlanta Braves",87.3166666666667,661202
+"1126","Milwaukee Brewers",90.5035714285714,661202
+"1127","Colorado Rockies",86.7478260869565,663003
+"1128","San Francisco Giants",83.7695652173913,663003
+"1129","Minnesota Twins",86.040625,662377
+"1130","Oakland Athletics",87.5129032258065,662377
+"1131","Arizona Diamondbacks",78.4884615384615,662744
+"1132","Los Angeles Dodgers",87.362962962963,662744
+"1133","Boston Red Sox",89.6583333333333,663270
+"1134","Houston Astros",89.2095238095238,663270
+"1135","Miami Marlins",87.8481481481481,661400
+"1136","Washington Nationals",88.7166666666667,661400
+"1137","Philadelphia Phillies",81.2235294117647,661624
+"1138","San Diego Padres",88.2263157894737,661624
+"1139","Baltimore Orioles",90.6925925925926,661344
+"1140","New York Yankees",88.9739130434783,661344
+"1141","Seattle Mariners",86.3103448275862,661767
+"1142","Toronto Blue Jays",86.1689655172414,661767
+"1143","New York Mets",89.336,662554
+"1144","St. Louis Cardinals",84.4,662554
+"1145","Chicago Cubs",89.075,663156
+"1146","Pittsburgh Pirates",85.6125,663156
+"1147","Los Angeles Angels",92.164,661125
+"1148","Texas Rangers",93.7730769230769,661125
+"1149","Chicago White Sox",90.84375,662726
+"1150","Kansas City Royals",90.6384615384615,662726
+"1151","Baltimore Orioles",89.4785714285714,661347
+"1152","New York Yankees",90.556,661347
+"1153","Philadelphia Phillies",86.392,661623
+"1154","San Diego Padres",91.6461538461539,661623
+"1155","Cincinnati Reds",92.5608695652174,663043
+"1156","Cleveland Guardians",90.8708333333333,663043
+"1157","New York Mets",90.7933333333333,662520
+"1158","St. Louis Cardinals",88.0583333333333,662520
+"1159","Chicago White Sox",91.9074074074074,662715
+"1160","Kansas City Royals",89.0484848484848,662715
+"1161","Boston Red Sox",89.6125,663269
+"1162","Seattle Mariners",90.7115384615385,663269
+"1163","Arizona Diamondbacks",92.4380952380952,663193
+"1164","Chicago Cubs",84.6583333333333,663193
+"1165","Houston Astros",85.848,662778
+"1166","Texas Rangers",84.3555555555556,662778
+"1167","Arizona Diamondbacks",85.8866666666667,663143
+"1168","Chicago Cubs",89.7346153846154,663143
+"1169","Pittsburgh Pirates",88.868,662506
+"1170","St. Louis Cardinals",85.1588235294118,662506
+"1171","Atlanta Braves",93.9461538461538,661339
+"1172","Miami Marlins",92.4814814814815,661339
+"1173","Baltimore Orioles",81.4393939393939,661348
+"1174","Tampa Bay Rays",87.8307692307692,661348
+"1175","Los Angeles Dodgers",90.236,661632
+"1176","Philadelphia Phillies",85.6652173913044,661632
+"1177","Cincinnati Reds",91.9884615384615,661766
+"1178","Toronto Blue Jays",90.9038461538461,661766
+"1179","Cleveland Guardians",94.7,663135
+"1180","Detroit Tigers",84.1695652173913,663135
+"1181","Boston Red Sox",89.1565217391304,663268
+"1182","Seattle Mariners",88.5363636363636,663268
+"1183","Houston Astros",90.912,662764
+"1184","Texas Rangers",89.6210526315789,662764
+"1185","Kansas City Royals",89.0258064516129,662714
+"1186","Minnesota Twins",91.8896551724138,662714
+"1187","Milwaukee Brewers",84.6884615384615,661195
+"1188","Washington Nationals",84.1181818181818,661195
+"1189","Los Angeles Angels",88.875,663449
+"1190","Oakland Athletics",88.36,663449
+"1191","San Diego Padres",89.4264705882353,662078
+"1192","San Francisco Giants",90.4161290322581,662078
+"1193","Colorado Rockies",87.0620689655172,663002
+"1194","New York Mets",87.275,663002
+"1195","Chicago White Sox",85.372,661289
+"1196","New York Yankees",88.0357142857143,661289
+"1197","Arizona Diamondbacks",93.8565217391304,663194
+"1198","Chicago Cubs",89.1785714285714,663194
+"1199","Cincinnati Reds",90.1291666666667,661793
+"1200","Toronto Blue Jays",89.904347826087,661793
+"1201","Colorado Rockies",87.0620689655172,663002
+"1202","New York Mets",87.275,663002
+"1203","Colorado Rockies",89.2933333333333,663001
+"1204","New York Mets",89.6241379310345,663001
+"1205","San Diego Padres",83.9238095238095,662077
+"1206","San Francisco Giants",86.5423076923077,662077
+"1207","Boston Red Sox",94.1103448275862,663234
+"1208","Seattle Mariners",91.7592592592593,663234
+"1209","Los Angeles Dodgers",92.0185185185185,661631
+"1210","Philadelphia Phillies",91.7347826086957,661631
+"1211","Atlanta Braves",87.0962962962963,661399
+"1212","Miami Marlins",87.3363636363636,661399
+"1213","Pittsburgh Pirates",86.8769230769231,662478
+"1214","St. Louis Cardinals",92.584,662478
+"1215","Baltimore Orioles",85.2380952380952,661291
+"1216","Tampa Bay Rays",91.2888888888889,661291
+"1217","Houston Astros",84.0375,662763
+"1218","Texas Rangers",89.0961538461538,662763
+"1219","Kansas City Royals",91.1269230769231,662713
+"1220","Minnesota Twins",89.6107142857143,662713
+"1221","Milwaukee Brewers",87.3967741935484,661280
+"1222","Washington Nationals",82.7769230769231,661280
+"1223","Los Angeles Angels",80.9608695652174,663448
+"1224","Oakland Athletics",85.684,663448
+"1225","Pittsburgh Pirates",93.7,662479
+"1226","St. Louis Cardinals",91.3613636363636,662479
+"1227","Boston Red Sox",93.8806451612903,663277
+"1228","Seattle Mariners",91.3666666666667,663277
+"1229","Baltimore Orioles",85.8513513513514,661279
+"1230","Tampa Bay Rays",83.4823529411765,661279
+"1231","Los Angeles Dodgers",88.3652173913043,661611
+"1232","Philadelphia Phillies",82.1,661611
+"1233","Cincinnati Reds",89.2333333333333,661763
+"1234","Toronto Blue Jays",84.1666666666667,661763
+"1235","Cleveland Guardians",92.4869565217391,663120
+"1236","Detroit Tigers",89.3428571428571,663120
+"1237","Atlanta Braves",85.9538461538462,661398
+"1238","Miami Marlins",86.7304347826087,661398
+"1239","Houston Astros",90.9538461538462,662857
+"1240","Texas Rangers",92.9333333333333,662857
+"1241","Kansas City Royals",88.7785714285714,662712
+"1242","Minnesota Twins",89.3806451612903,662712
+"1243","Milwaukee Brewers",91.1307692307692,661248
+"1244","Washington Nationals",87.915625,661248
+"1245","Arizona Diamondbacks",88.1259259259259,663150
+"1246","Chicago Cubs",89.1961538461538,663150
+"1247","Chicago White Sox",89.2346153846154,661288
+"1248","New York Yankees",88.7541666666667,661288
+"1249","Chicago White Sox",92.0967741935484,661290
+"1250","New York Yankees",85.0608695652174,661290
+"1251","Colorado Rockies",86.7695652173913,662982
+"1252","New York Mets",85.8571428571429,662982
+"1253","San Diego Padres",89.0410256410256,662076
+"1254","San Francisco Giants",87.2904761904762,662076
+"1255","Los Angeles Angels",88.2071428571429,663447
+"1256","Oakland Athletics",88.1333333333333,663447
+"1257","Colorado Rockies",81.8692307692308,662455
+"1258","Pittsburgh Pirates",92.9961538461538,662455
+"1259","Chicago Cubs",96.4523809523809,663073
+"1260","Cincinnati Reds",84.8954545454545,663073
+"1261","Los Angeles Dodgers",90.7064516129032,662524
+"1262","Washington Nationals",85.516,662524
+"1263","Baltimore Orioles",86.4884615384615,661287
+"1264","New York Yankees",86.7272727272727,661287
+"1265","Atlanta Braves",86.0583333333333,661544
+"1266","Philadelphia Phillies",89.972,661544
+"1267","Detroit Tigers",89.6333333333333,661730
+"1268","Minnesota Twins",91.1909090909091,661730
+"1269","St. Louis Cardinals",92.2961538461538,661999
+"1270","Toronto Blue Jays",93.65,661999
+"1271","Cleveland Guardians",86.6,662858
+"1272","Houston Astros",88.8423076923077,662858
+"1273","Arizona Diamondbacks",90.9884615384615,663340
+"1274","Kansas City Royals",92.4645161290323,663340
+"1275","Oakland Athletics",84.0129032258065,662135
+"1276","Seattle Mariners",92.685,662135
+"1277","Milwaukee Brewers",90.1925925925926,662257
+"1278","San Diego Padres",85.1566666666667,662257
+"1279","New York Mets",87.6333333333333,662075
+"1280","San Francisco Giants",88.488,662075
+"1281","Colorado Rockies",85.5285714285714,662454
+"1282","Pittsburgh Pirates",87.4782608695652,662454
+"1283","Chicago Cubs",86.753125,663103
+"1284","Cincinnati Reds",90.54,663103
+"1285","Miami Marlins",89.4736842105263,661978
+"1286","Tampa Bay Rays",91.0166666666667,661978
+"1287","Los Angeles Dodgers",86.437037037037,662536
+"1288","Washington Nationals",87.4678571428571,662536
+"1289","Baltimore Orioles",86.975,661285
+"1290","New York Yankees",90.4535714285714,661285
+"1291","Atlanta Braves",90.8434782608696,661543
+"1292","Philadelphia Phillies",90.4964285714286,661543
+"1293","Detroit Tigers",79.9157894736842,661699
+"1294","Minnesota Twins",87.8590909090909,661699
+"1295","St. Louis Cardinals",90.7954545454545,661998
+"1296","Toronto Blue Jays",91.5057142857143,661998
+"1297","Cleveland Guardians",86.0178571428571,662846
+"1298","Houston Astros",91.5166666666667,662846
+"1299","Boston Red Sox",97.1941176470588,661488
+"1300","Chicago White Sox",88.8166666666667,661488
+"1301","Los Angeles Angels",87.3375,663381
+"1302","Texas Rangers",86.58,663381
+"1303","Arizona Diamondbacks",91.7421052631579,663339
+"1304","Kansas City Royals",89.6481481481482,663339
+"1305","Oakland Athletics",85.3666666666667,662134
+"1306","Seattle Mariners",89.8,662134
+"1307","Milwaukee Brewers",89.1090909090909,662229
+"1308","San Diego Padres",85.3,662229
+"1309","New York Mets",90.2351351351351,662074
+"1310","San Francisco Giants",89.4176470588235,662074
+"1311","Colorado Rockies",82.351724137931,662453
+"1312","Pittsburgh Pirates",87.6227272727273,662453
+"1313","Detroit Tigers",87.8333333333333,661772
+"1314","Minnesota Twins",91.656,661772
+"1315","New York Mets",87.776,662093
+"1316","San Francisco Giants",91.015,662093
+"1317","Los Angeles Dodgers",88.404347826087,662527
+"1318","Washington Nationals",84.5619047619048,662527
+"1319","Oakland Athletics",88.675,662133
+"1320","Seattle Mariners",89.3590909090909,662133
+"1321","Milwaukee Brewers",86.4222222222222,662228
+"1322","San Diego Padres",88.9,662228
+"1323","Chicago Cubs",83.2,663082
+"1324","Cincinnati Reds",88.5272727272727,663082
+"1325","Miami Marlins",82.7227272727273,662052
+"1326","Tampa Bay Rays",93.94,662052
+"1327","Baltimore Orioles",83.0428571428571,661286
+"1328","New York Yankees",85.688,661286
+"1329","Atlanta Braves",93.1772727272727,661542
+"1330","Philadelphia Phillies",88.6464285714286,661542
+"1331","Cleveland Guardians",83.0789473684211,662845
+"1332","Houston Astros",84.9727272727273,662845
+"1333","Boston Red Sox",91.0090909090909,661487
+"1334","Chicago White Sox",87.9166666666667,661487
+"1335","Los Angeles Angels",85.65,663446
+"1336","Texas Rangers",90.3966666666667,663446
+"1337","Chicago Cubs",88.937037037037,663081
+"1338","Cincinnati Reds",89.0459459459459,663081
+"1339","New York Yankees",83.3851851851852,662051
+"1340","Tampa Bay Rays",86.8148148148148,662051
+"1341","Colorado Rockies",87.3566666666667,662515
+"1342","Washington Nationals",90.3071428571429,662515
+"1343","Cleveland Guardians",90.4571428571429,662842
+"1344","Detroit Tigers",82.2,662842
+"1345","Atlanta Braves",86.7333333333333,661574
+"1346","Philadelphia Phillies",92.7458333333333,661574
+"1347","Kansas City Royals",94.364,661771
+"1348","Minnesota Twins",89.8034482758621,661771
+"1349","Milwaukee Brewers",88.3794117647059,661997
+"1350","St. Louis Cardinals",85.9366666666667,661997
+"1351","Boston Red Sox",93.5382352941176,661486
+"1352","Chicago White Sox",87.5433333333333,661486
+"1353","Los Angeles Angels",87.08,663445
+"1354","Toronto Blue Jays",89.9833333333333,663445
+"1355","Arizona Diamondbacks",89.8357142857143,663338
+"1356","Los Angeles Dodgers",87.6708333333333,663338
+"1357","Oakland Athletics",88.2,662376
+"1358","Texas Rangers",92.2947368421053,662376
+"1359","Cincinnati Reds",85.9,663080
+"1360","San Francisco Giants",86.3571428571429,663080
+"1361","Baltimore Orioles",89.5171428571429,663276
+"1362","Boston Red Sox",86.4277777777778,663276
+"1363","New York Mets",90.2217391304348,662543
+"1364","Philadelphia Phillies",83.9083333333333,662543
+"1365","New York Yankees",85.295652173913,661960
+"1366","Tampa Bay Rays",91.5380952380952,661960
+"1367","Atlanta Braves",89.6454545454545,661539
+"1368","Miami Marlins",89.9045454545455,661539
+"1369","Kansas City Royals",92.5962962962963,661777
+"1370","Minnesota Twins",89.1771428571429,661777
+"1371","Milwaukee Brewers",93.844,661992
+"1372","St. Louis Cardinals",82.995652173913,661992
+"1373","Los Angeles Angels",80.72,663444
+"1374","Toronto Blue Jays",88.7555555555556,663444
+"1375","Arizona Diamondbacks",90.8423076923077,663347
+"1376","Los Angeles Dodgers",91.6533333333333,663347
+"1377","Pittsburgh Pirates",89.9083333333333,662281
+"1378","San Diego Padres",78.8863636363636,662281
+"1379","Houston Astros",87.2703703703704,662132
+"1380","Seattle Mariners",90.6222222222222,662132
+"1381","Oakland Athletics",88.3545454545455,662369
+"1382","Texas Rangers",90.8607142857143,662369
+"1383","Colorado Rockies",81.8875,662514
+"1384","Washington Nationals",90.741935483871,662514
+"1385","Colorado Rockies",84.5193548387097,662513
+"1386","Washington Nationals",85.4708333333333,662513
+"1387","Baltimore Orioles",95.35,663257
+"1388","Boston Red Sox",89.5225806451613,663257
+"1389","Baltimore Orioles",91.3407407407407,663309
+"1390","Boston Red Sox",91.5933333333333,663309
+"1391","Kansas City Royals",89.715625,661774
+"1392","Minnesota Twins",91.8785714285714,661774
+"1393","Milwaukee Brewers",94.14,661991
+"1394","St. Louis Cardinals",89.441935483871,661991
+"1395","Oakland Athletics",93.5892857142857,662375
+"1396","Texas Rangers",88.6219512195122,662375
+"1397","Cleveland Guardians",90.0151515151515,662852
+"1398","Detroit Tigers",83.0678571428571,662852
+"1399","Cincinnati Reds",92.2210526315789,663118
+"1400","San Francisco Giants",91.0655172413793,663118
+"1401","Atlanta Braves",91.3153846153846,661537
+"1402","Miami Marlins",90.9607142857143,661537
+"1403","New York Yankees",86.89,661933
+"1404","Tampa Bay Rays",86.8789473684211,661933
+"1405","Arizona Diamondbacks",89.07,663330
+"1406","Los Angeles Dodgers",89.6916666666667,663330
+"1407","New York Mets",89.4384615384615,662556
+"1408","Philadelphia Phillies",86.0928571428571,662556
+"1409","Chicago Cubs",91.8483870967742,661518
+"1410","Chicago White Sox",86.4041666666667,661518
+"1411","Los Angeles Angels",90.8838709677419,663400
+"1412","Toronto Blue Jays",89.55,663400
+"1413","Pittsburgh Pirates",87.87,662280
+"1414","San Diego Padres",85.451724137931,662280
+"1415","Houston Astros",89.5461538461538,662131
+"1416","Seattle Mariners",88.35,662131
+"1417","Cincinnati Reds",87.8869565217391,663072
+"1418","San Francisco Giants",86.085,663072
+"1419","Baltimore Orioles",86.9291666666667,663299
+"1420","Boston Red Sox",91.6666666666667,663299
+"1421","Colorado Rockies",86.5333333333333,662512
+"1422","Washington Nationals",90.7172413793104,662512
+"1423","Atlanta Braves",94.6413793103448,661517
+"1424","Miami Marlins",87.1375,661517
+"1425","Cleveland Guardians",92.2,662840
+"1426","Detroit Tigers",89.25,662840
+"1427","New York Yankees",85.7222222222222,661910
+"1428","Tampa Bay Rays",90.7,661910
+"1429","Kansas City Royals",87.784,661731
+"1430","Minnesota Twins",86.0172413793103,661731
+"1431","Chicago Cubs",86.8172413793103,661461
+"1432","Chicago White Sox",85.975,661461
+"1433","Milwaukee Brewers",89.1,661990
+"1434","St. Louis Cardinals",84.0421052631579,661990
+"1435","Oakland Athletics",89.3548387096774,662374
+"1436","Texas Rangers",86.2466666666667,662374
+"1437","Los Angeles Angels",93.7642857142857,663414
+"1438","Toronto Blue Jays",87.484375,663414
+"1439","Arizona Diamondbacks",86.2272727272727,663328
+"1440","Los Angeles Dodgers",82.0416666666667,663328
+"1441","Pittsburgh Pirates",87.3952380952381,662279
+"1442","San Diego Padres",84.9269230769231,662279
+"1443","Houston Astros",88.4103448275862,662130
+"1444","Seattle Mariners",86.8777777777778,662130
+"1445","New York Mets",88.7923076923077,662555
+"1446","Philadelphia Phillies",85.152,662555
+"1447","Chicago Cubs",90.4851851851852,663149
+"1448","Milwaukee Brewers",85.864,663149
+"1449","Chicago Cubs",90.2933333333333,663147
+"1450","Milwaukee Brewers",84.205,663147
+"1451","Detroit Tigers",89.3933333333333,662854
+"1452","Minnesota Twins",91.0379310344828,662854
+"1453","San Diego Padres",88.1478260869565,661989
+"1454","St. Louis Cardinals",87.8535714285714,661989
+"1455","Philadelphia Phillies",94.5909090909091,661613
+"1456","San Francisco Giants",88.2357142857143,661613
+"1457","Houston Astros",83.7296296296296,662373
+"1458","Oakland Athletics",94.81,662373
+"1459","Colorado Rockies",86.9130434782609,662992
+"1460","Miami Marlins",83.475,662992
+"1461","Cleveland Guardians",93.0142857142857,663109
+"1462","Kansas City Royals",84.3269230769231,663109
+"1463","Baltimore Orioles",92.4516129032258,663298
+"1464","Boston Red Sox",88.2884615384615,663298
+"1465","New York Mets",90.6378378378378,662545
+"1466","Washington Nationals",86.25,662545
+"1467","Tampa Bay Rays",90.2321428571429,661900
+"1468","Texas Rangers",86.8615384615385,661900
+"1469","Arizona Diamondbacks",87.3636363636364,663327
+"1470","Atlanta Braves",90.6851851851852,663327
+"1471","Los Angeles Dodgers",90.04,662743
+"1472","Pittsburgh Pirates",89.668,662743
+"1473","Detroit Tigers",88.9172413793103,662806
+"1474","Minnesota Twins",95.85,662806
+"1475","Detroit Tigers",85.955,662836
+"1476","Minnesota Twins",88.0181818181818,662836
+"1477","Cleveland Guardians",84.3433333333333,663034
+"1478","Kansas City Royals",90.232,663034
+"1479","Philadelphia Phillies",82.458064516129,661618
+"1480","San Francisco Giants",86.4125,661618
+"1481","Baltimore Orioles",93.2631578947368,661075
+"1482","Seattle Mariners",90.7027777777778,661075
+"1483","Los Angeles Angels",89.8142857142857,661331
+"1484","New York Yankees",88.6766666666667,661331
+"1485","Chicago White Sox",93.0310344827586,661797
+"1486","Toronto Blue Jays",90.4807692307692,661797
+"1487","Boston Red Sox",93.4,663297
+"1488","Cincinnati Reds",82.8448275862069,663297
+"1489","New York Mets",88.3310344827586,662544
+"1490","Washington Nationals",85.6037037037037,662544
+"1491","San Diego Padres",89.3666666666667,661977
+"1492","St. Louis Cardinals",86.2535714285714,661977
+"1493","Tampa Bay Rays",88.7583333333333,661884
+"1494","Texas Rangers",86.1739130434783,661884
+"1495","Chicago Cubs",91.5892857142857,663154
+"1496","Milwaukee Brewers",88.0708333333333,663154
+"1497","Houston Astros",91.6217391304348,662367
+"1498","Oakland Athletics",89.1074074074074,662367
+"1499","Arizona Diamondbacks",86.3586206896552,663329
+"1500","Atlanta Braves",90.5741935483871,663329
+"1501","Los Angeles Dodgers",84.4631578947368,662735
+"1502","Pittsburgh Pirates",88.0826086956522,662735
+"1503","Cleveland Guardians",89.64,663031
+"1504","Kansas City Royals",91.5105263157895,663031
+"1505","New York Mets",85.2785714285714,662457
+"1506","Washington Nationals",86.4818181818182,662457
+"1507","San Diego Padres",85.7266666666667,661982
+"1508","St. Louis Cardinals",87.7769230769231,661982
+"1509","Colorado Rockies",82.2333333333333,662981
+"1510","Miami Marlins",90.2609756097561,662981
+"1511","Colorado Rockies",88.0060606060606,662991
+"1512","Miami Marlins",87.1361111111111,662991
+"1513","Houston Astros",87.3969696969697,662366
+"1514","Oakland Athletics",86.0636363636364,662366
+"1515","Arizona Diamondbacks",90.67,663326
+"1516","Atlanta Braves",91.0892857142857,663326
+"1517","Philadelphia Phillies",88.7740740740741,661612
+"1518","San Francisco Giants",91.3,661612
+"1519","Baltimore Orioles",90.525,661343
+"1520","Seattle Mariners",86.624,661343
+"1521","Chicago White Sox",88.3592592592593,661764
+"1522","Toronto Blue Jays",90.4,661764
+"1523","Boston Red Sox",88.5947368421053,663296
+"1524","Cincinnati Reds",88.65,663296
+"1525","Detroit Tigers",90.0958333333333,662833
+"1526","Minnesota Twins",84.59,662833
+"1527","Tampa Bay Rays",88.8347826086956,661963
+"1528","Texas Rangers",88.1111111111111,661963
+"1529","Chicago Cubs",83.8925925925926,663184
+"1530","Milwaukee Brewers",82.652,663184
+"1531","Los Angeles Dodgers",87.3571428571429,662721
+"1532","Pittsburgh Pirates",88.544,662721
+"1533","Los Angeles Angels",85.2636363636364,661330
+"1534","New York Yankees",92.0433333333333,661330
+"1535","Los Angeles Angels",85.2,661329
+"1536","New York Yankees",89.5380952380952,661329
+"1537","Detroit Tigers",89.3047619047619,662832
+"1538","Minnesota Twins",87.7652173913043,662832
+"1539","Tampa Bay Rays",90.0965517241379,661934
+"1540","Texas Rangers",87.328,661934
+"1541","Chicago White Sox",86.9538461538462,661762
+"1542","Toronto Blue Jays",93.2148148148148,661762
+"1543","Cincinnati Reds",92.0259259259259,663091
+"1544","Washington Nationals",80.9916666666667,663091
+"1545","Miami Marlins",88.975,661397
+"1546","San Francisco Giants",82.5166666666667,661397
+"1547","Baltimore Orioles",84.8466666666667,661247
+"1548","Seattle Mariners",89.8161290322581,661247
+"1549","Milwaukee Brewers",84.065,661340
+"1550","San Diego Padres",88.3346153846154,661340
+"1551","Chicago Cubs",92.121875,663139
+"1552","St. Louis Cardinals",87.4642857142857,663139
+"1553","Atlanta Braves",88.5,663000
+"1554","Colorado Rockies",89.92,663000
+"1555","Los Angeles Dodgers",91.9357142857143,662693
+"1556","New York Mets",88.82,662693
+"1557","Chicago Cubs",81.6379310344828,663153
+"1558","St. Louis Cardinals",90.75,663153
+"1559","Cincinnati Reds",84.4590909090909,663119
+"1560","Washington Nationals",90.4322580645161,663119
+"1561","Miami Marlins",91.1791666666667,661396
+"1562","San Francisco Giants",94.0142857142857,661396
+"1563","Baltimore Orioles",90.4647058823529,661058
+"1564","Cleveland Guardians",88.1179487179487,661058
+"1565","Arizona Diamondbacks",90.615625,662452
+"1566","Pittsburgh Pirates",87.6,662452
+"1567","Los Angeles Angels",88.5708333333333,661642
+"1568","Philadelphia Phillies",91.95,661642
+"1569","Detroit Tigers",83.09375,661318
+"1570","New York Yankees",93.748,661318
+"1571","Minnesota Twins",92.684,661761
+"1572","Toronto Blue Jays",88.5666666666667,661761
+"1573","Chicago White Sox",87.0846153846154,661897
+"1574","Tampa Bay Rays",87.7965517241379,661897
+"1575","Seattle Mariners",94.104347826087,661913
+"1576","Texas Rangers",92.8608695652174,661913
+"1577","Houston Astros",92.7392857142857,662692
+"1578","Kansas City Royals",90.0782608695652,662692
+"1579","Milwaukee Brewers",86.8952380952381,661334
+"1580","San Diego Padres",88.8483870967742,661334
+"1581","Atlanta Braves",84.3,662980
+"1582","Colorado Rockies",81.304347826087,662980
+"1583","Boston Red Sox",92.57,662365
+"1584","Oakland Athletics",88.37,662365
+"1585","Los Angeles Dodgers",92.6272727272727,662720
+"1586","New York Mets",87,662720
+"1587","Detroit Tigers",88.22,661278
+"1588","New York Yankees",95.2166666666667,661278
+"1589","Chicago Cubs",84.5166666666667,663179
+"1590","St. Louis Cardinals",88.2904761904762,663179
+"1591","Chicago Cubs",87.7310344827586,663152
+"1592","St. Louis Cardinals",87.3192307692308,663152
+"1593","Minnesota Twins",87.7294117647059,661749
+"1594","Toronto Blue Jays",93.6382352941176,661749
+"1595","Baltimore Orioles",88.5833333333333,661346
+"1596","Cleveland Guardians",86.7185185185185,661346
+"1597","Arizona Diamondbacks",86.4904761904762,662451
+"1598","Pittsburgh Pirates",78.8571428571429,662451
+"1599","Seattle Mariners",94.0904761904762,661936
+"1600","Texas Rangers",87.8583333333333,661936
+"1601","Boston Red Sox",89.5612903225806,662364
+"1602","Oakland Athletics",88.495,662364
+"1603","Houston Astros",89.8185185185185,662689
+"1604","Kansas City Royals",91.7103448275862,662689
+"1605","Cincinnati Reds",87.3642857142857,663102
+"1606","Washington Nationals",91.4066666666667,663102
+"1607","Chicago White Sox",88.3961538461539,661896
+"1608","Tampa Bay Rays",87.8789473684211,661896
+"1609","Miami Marlins",87.3,661395
+"1610","San Francisco Giants",84.6565217391304,661395
+"1611","Milwaukee Brewers",82.4809523809524,661214
+"1612","San Diego Padres",83.0434782608696,661214
+"1613","Los Angeles Angels",80.9714285714286,661615
+"1614","Philadelphia Phillies",96.1555555555556,661615
+"1615","Atlanta Braves",90.6216216216216,662987
+"1616","Colorado Rockies",89.3,662987
+"1617","Los Angeles Dodgers",84.1826086956522,662687
+"1618","New York Mets",92.1714285714286,662687
+"1619","Detroit Tigers",86.212,661277
+"1620","New York Yankees",86.6384615384615,661277
+"1621","Baltimore Orioles",87.7333333333333,661151
+"1622","Cleveland Guardians",86.4115384615385,661151
+"1623","Arizona Diamondbacks",88.5772727272727,662450
+"1624","Pittsburgh Pirates",84.3923076923077,662450
+"1625","Los Angeles Angels",88.604347826087,661633
+"1626","Philadelphia Phillies",87.9392857142857,661633
+"1627","Minnesota Twins",90.1058823529412,661747
+"1628","Toronto Blue Jays",90.34,661747
+"1629","Cincinnati Reds",90.3333333333333,663058
+"1630","Washington Nationals",89.4269230769231,663058
+"1631","Chicago White Sox",88.25,661895
+"1632","Tampa Bay Rays",89.0115384615385,661895
+"1633","Miami Marlins",86.4260869565217,661394
+"1634","San Francisco Giants",83.7230769230769,661394
+"1635","Houston Astros",92.1275862068966,662688
+"1636","Kansas City Royals",85.3916666666667,662688
+"1637","Milwaukee Brewers",83.1407407407407,661241
+"1638","San Diego Padres",88.3241379310345,661241
+"1639","Seattle Mariners",83.3030303030303,661962
+"1640","Texas Rangers",88.7967741935484,661962
+"1641","Atlanta Braves",94.1928571428571,662990
+"1642","Colorado Rockies",90.0423076923077,662990
+"1643","Boston Red Sox",86.592,662363
+"1644","Oakland Athletics",88.456,662363
+"1645","Los Angeles Dodgers",90.559375,662612
+"1646","New York Mets",88.6074074074074,662612
+"1647","Chicago Cubs",87.1194444444444,663138
+"1648","St. Louis Cardinals",84.7861111111111,663138
+"1649","Arizona Diamondbacks",82.275,663065
+"1650","Cincinnati Reds",89.4115384615385,663065
+"1651","Houston Astros",93.1321428571429,662762
+"1652","Seattle Mariners",90.3833333333333,662762
+"1653","Kansas City Royals",91.3652173913043,662613
+"1654","Toronto Blue Jays",92.1258064516129,662613
+"1655","Boston Red Sox",91.0142857142857,663399
+"1656","Los Angeles Angels",90.1333333333333,663399
+"1657","New York Mets",93.7228571428571,662278
+"1658","San Diego Padres",88.915,662278
+"1659","Cleveland Guardians",82.5586206896552,663122
+"1660","Texas Rangers",84.7533333333333,663122
+"1661","Cleveland Guardians",82.8125,663134
+"1662","Texas Rangers",87.8,663134
+"1663","Arizona Diamondbacks",85.3758620689655,663064
+"1664","Cincinnati Reds",87.2464285714286,663064
+"1665","Miami Marlins",89.5275862068966,661169
+"1666","Washington Nationals",88.2586206896552,661169
+"1667","Baltimore Orioles",93.5041666666667,661170
+"1668","Chicago Cubs",92.4535714285714,661170
+"1669","Detroit Tigers",89.8814814814815,662449
+"1670","Pittsburgh Pirates",87.6619047619048,662449
+"1671","St. Louis Cardinals",86.1551724137931,661894
+"1672","Tampa Bay Rays",90.6083333333333,661894
+"1673","Atlanta Braves",95.355,661516
+"1674","Oakland Athletics",87.6,661516
+"1675","Minnesota Twins",85.9870967741935,661693
+"1676","New York Yankees",93.5645161290323,661693
+"1677","Houston Astros",87.6185185185185,662761
+"1678","Seattle Mariners",89.4,662761
+"1679","Kansas City Royals",90.8818181818182,662678
+"1680","Toronto Blue Jays",93.1,662678
+"1681","Chicago White Sox",89.288,661460
+"1682","Los Angeles Dodgers",90.447619047619,661460
+"1683","Milwaukee Brewers",83.944,661205
+"1684","Philadelphia Phillies",92.1928571428571,661205
+"1685","Boston Red Sox",85.9657142857143,663391
+"1686","Los Angeles Angels",88.7875,663391
+"1687","New York Mets",86.7714285714286,662277
+"1688","San Diego Padres",86.4962962962963,662277
+"1689","Colorado Rockies",86.8785714285714,662092
+"1690","San Francisco Giants",92.5,662092
+"1691","Detroit Tigers",88.1,662448
+"1692","Pittsburgh Pirates",88.5823529411765,662448
+"1693","Kansas City Royals",88.396,662679
+"1694","Toronto Blue Jays",91.028125,662679
+"1695","Arizona Diamondbacks",88.8038461538462,663050
+"1696","Cincinnati Reds",87.1166666666667,663050
+"1697","Houston Astros",91.232,662760
+"1698","Seattle Mariners",88.0645161290323,662760
+"1699","Miami Marlins",88.8846153846154,661150
+"1700","Washington Nationals",89.0724137931035,661150
+"1701","St. Louis Cardinals",84.368,661892
+"1702","Tampa Bay Rays",91.5885714285714,661892
+"1703","Cleveland Guardians",90.9931034482759,663055
+"1704","Texas Rangers",87.63,663055
+"1705","Atlanta Braves",93.2903225806452,661515
+"1706","Oakland Athletics",85.7269230769231,661515
+"1707","Minnesota Twins",88.8518518518518,661681
+"1708","New York Yankees",88.9333333333333,661681
+"1709","Chicago White Sox",88.9904761904762,661459
+"1710","Los Angeles Dodgers",90.7958333333333,661459
+"1711","Milwaukee Brewers",86.4565217391304,661188
+"1712","Philadelphia Phillies",88.778125,661188
+"1713","Boston Red Sox",83.3678571428571,663398
+"1714","Los Angeles Angels",90.088,663398
+"1715","New York Mets",87.072,662223
+"1716","San Diego Padres",88.459375,662223
+"1717","Colorado Rockies",87.6814814814815,662094
+"1718","San Francisco Giants",87.7615384615385,662094
+"1719","Arizona Diamondbacks",83.3619047619048,663049
+"1720","Cincinnati Reds",89.9851851851852,663049
+"1721","St. Louis Cardinals",89.2947368421053,661891
+"1722","Tampa Bay Rays",83.2294117647059,661891
+"1723","Chicago White Sox",86.6464285714286,661458
+"1724","Los Angeles Dodgers",86.2217391304348,661458
+"1725","Milwaukee Brewers",89.9428571428572,661194
+"1726","Philadelphia Phillies",88.076,661194
+"1727","Colorado Rockies",86.303125,662091
+"1728","San Francisco Giants",86.44,662091
+"1729","Miami Marlins",89.495652173913,661149
+"1730","Washington Nationals",87.0153846153846,661149
+"1731","Cleveland Guardians",84.78,663015
+"1732","Oakland Athletics",91.4307692307692,663015
+"1733","Atlanta Braves",80.79,661514
+"1734","Pittsburgh Pirates",86.6,661514
+"1735","Minnesota Twins",89.8703703703704,661697
+"1736","New York Yankees",92.8205882352941,661697
+"1737","Baltimore Orioles",88.96,662677
+"1738","Kansas City Royals",90.584375,662677
+"1739","Boston Red Sox",90.7875,663413
+"1740","Los Angeles Angels",91.9294117647059,663413
+"1741","Arizona Diamondbacks",90.064,661617
+"1742","Philadelphia Phillies",86.8275862068966,661617
+"1743","Chicago Cubs",88.456,661284
+"1744","New York Yankees",89.2633333333333,661284
+"1745","Milwaukee Brewers",88.6478260869565,662511
+"1746","Washington Nationals",87.6166666666667,662511
+"1747","Cleveland Guardians",87.5103448275862,663014
+"1748","Oakland Athletics",88.575,663014
+"1749","Detroit Tigers",87.3730769230769,662831
+"1750","Toronto Blue Jays",92.5970588235294,662831
+"1751","Atlanta Braves",88.552,661513
+"1752","Pittsburgh Pirates",90.3681818181818,661513
+"1753","Baltimore Orioles",91.0809523809524,662676
+"1754","Kansas City Royals",89.651724137931,662676
+"1755","Minnesota Twins",91.769696969697,661678
+"1756","Tampa Bay Rays",87.5541666666667,661678
+"1757","Chicago White Sox",84.496,661485
+"1758","Texas Rangers",90.6285714285714,661485
+"1759","Houston Astros",89.2807692307692,662759
+"1760","Miami Marlins",91.07,662759
+"1761","Cincinnati Reds",91.4,661983
+"1762","St. Louis Cardinals",83.852,661983
+"1763","Los Angeles Angels",88.7478260869565,663390
+"1764","New York Mets",88.5103448275862,663390
+"1765","Colorado Rockies",82.5,662275
+"1766","San Diego Padres",89.1558823529412,662275
+"1767","Boston Red Sox",90.4130434782609,662129
+"1768","Seattle Mariners",88.196,662129
+"1769","Los Angeles Dodgers",89.4962962962963,662090
+"1770","San Francisco Giants",88.7375,662090
+"1771","Minnesota Twins",90.2130434782609,661680
+"1772","Tampa Bay Rays",87.025,661680
+"1773","Chicago White Sox",86.4633333333333,661484
+"1774","Texas Rangers",87.7967741935484,661484
+"1775","Cincinnati Reds",89.37,661976
+"1776","St. Louis Cardinals",91.6086956521739,661976
+"1777","Arizona Diamondbacks",86.4772727272727,661614
+"1778","Philadelphia Phillies",86.0259259259259,661614
+"1779","Milwaukee Brewers",92.9606060606061,662510
+"1780","Washington Nationals",86.7607142857143,662510
+"1781","Baltimore Orioles",93.325,662674
+"1782","Kansas City Royals",90.27,662674
+"1783","Cleveland Guardians",85.9862068965517,663084
+"1784","Oakland Athletics",89.2464285714286,663084
+"1785","Colorado Rockies",84.792,662251
+"1786","San Diego Padres",92.68,662251
+"1787","Colorado Rockies",88.34,662222
+"1788","San Diego Padres",91.5130434782609,662222
+"1789","Detroit Tigers",89.196,662830
+"1790","Toronto Blue Jays",88.9766666666667,662830
+"1791","Atlanta Braves",91.552,661160
+"1792","Pittsburgh Pirates",88.5875,661160
+"1793","Houston Astros",88.2,662756
+"1794","Miami Marlins",86.4166666666667,662756
+"1795","Los Angeles Dodgers",87.1314285714286,662089
+"1796","San Francisco Giants",86.2238095238095,662089
+"1797","Chicago Cubs",86.912,661276
+"1798","New York Yankees",94.3071428571429,661276
+"1799","Los Angeles Angels",92.8192307692308,663412
+"1800","New York Mets",90.3096774193548,663412
+"1801","Boston Red Sox",85.9884615384615,662128
+"1802","Seattle Mariners",85.7935483870968,662128
+"1803","Cleveland Guardians",86.61,663083
+"1804","Oakland Athletics",86.4384615384615,663083
+"1805","Arizona Diamondbacks",89.446875,661622
+"1806","Philadelphia Phillies",81.905,661622
+"1807","Atlanta Braves",84.9958333333333,661144
+"1808","Pittsburgh Pirates",88.3681818181818,661144
+"1809","Chicago Cubs",89.7785714285714,661270
+"1810","New York Yankees",89.5970588235294,661270
+"1811","Milwaukee Brewers",90.2931034482759,662542
+"1812","Washington Nationals",82.776,662542
+"1813","Detroit Tigers",86.425,662829
+"1814","Toronto Blue Jays",91.584,662829
+"1815","Baltimore Orioles",91.8433333333333,662673
+"1816","Kansas City Royals",89.2777777777778,662673
+"1817","Minnesota Twins",88.4166666666667,661679
+"1818","Tampa Bay Rays",87.0269230769231,661679
+"1819","Chicago White Sox",84.6241379310345,661483
+"1820","Texas Rangers",90.3764705882353,661483
+"1821","Houston Astros",87.0966666666667,662758
+"1822","Miami Marlins",90.8153846153846,662758
+"1823","Cincinnati Reds",85.3035714285714,661975
+"1824","St. Louis Cardinals",88.8939393939394,661975
+"1825","Los Angeles Dodgers",90.1666666666667,662085
+"1826","San Francisco Giants",86.3333333333333,662085
+"1827","Colorado Rockies",85.7769230769231,662256
+"1828","San Diego Padres",89.82,662256
+"1829","Boston Red Sox",82.7583333333333,662127
+"1830","Seattle Mariners",82.9944444444444,662127
+"1831","Los Angeles Angels",82.6214285714286,663397
+"1832","New York Mets",89.24,663397
+"1833","Atlanta Braves",92.4758620689655,662505
+"1834","Washington Nationals",90.8964285714286,662505
+"1835","Miami Marlins",86.428,661629
+"1836","Philadelphia Phillies",83.6740740740741,661629
+"1837","Baltimore Orioles",89.9045454545455,661746
+"1838","Toronto Blue Jays",88.8361111111111,661746
+"1839","Chicago White Sox",94.8266666666667,662828
+"1840","Detroit Tigers",89.251724137931,662828
+"1841","Pittsburgh Pirates",88.4392857142857,661974
+"1842","St. Louis Cardinals",89.4151515151515,661974
+"1843","Chicago Cubs",88.1217391304348,663183
+"1844","San Diego Padres",84.7448275862069,663183
+"1845","Houston Astros",92.4142857142857,661881
+"1846","Texas Rangers",84.4384615384615,661881
+"1847","Arizona Diamondbacks",87.1642857142857,663345
+"1848","Cincinnati Reds",93.4208333333333,663345
+"1849","Kansas City Royals",87.1125,662069
+"1850","San Francisco Giants",88.3636363636364,662069
+"1851","Minnesota Twins",90.256,662126
+"1852","Seattle Mariners",88.3952380952381,662126
+"1853","Pittsburgh Pirates",90.55,662018
+"1854","St. Louis Cardinals",87.2740740740741,662018
+"1855","Pittsburgh Pirates",89.5545454545455,661973
+"1856","St. Louis Cardinals",92.434375,661973
+"1857","Atlanta Braves",96.7,662503
+"1858","Washington Nationals",85.7076923076923,662503
+"1859","Miami Marlins",85.6862068965517,661616
+"1860","Philadelphia Phillies",90.8181818181818,661616
+"1861","New York Yankees",87.3307692307692,661328
+"1862","Tampa Bay Rays",84.7904761904762,661328
+"1863","Baltimore Orioles",93.684,661745
+"1864","Toronto Blue Jays",86.028,661745
+"1865","Boston Red Sox",89.5555555555556,663279
+"1866","Oakland Athletics",87.6384615384615,663279
+"1867","Chicago White Sox",86.4787878787879,662884
+"1868","Detroit Tigers",87.7727272727273,662884
+"1869","Milwaukee Brewers",92.48,662441
+"1870","New York Mets",88.7961538461538,662441
+"1871","Chicago Cubs",86.4689655172414,663182
+"1872","San Diego Padres",85.8258064516129,663182
+"1873","Houston Astros",83.425,661880
+"1874","Texas Rangers",92.2037037037037,661880
+"1875","Cleveland Guardians",85.540625,662935
+"1876","Colorado Rockies",89.7814814814815,662935
+"1877","Arizona Diamondbacks",85.9111111111111,663342
+"1878","Cincinnati Reds",89.0030303030303,663342
+"1879","Kansas City Royals",90.9619047619048,662068
+"1880","San Francisco Giants",87.6111111111111,662068
+"1881","Los Angeles Angels",88.5157894736842,662611
+"1882","Los Angeles Dodgers",89.0368421052632,662611
+"1883","Minnesota Twins",89.6285714285714,662125
+"1884","Seattle Mariners",87.9291666666667,662125
+"1885","Miami Marlins",86.9708333333333,661583
+"1886","Philadelphia Phillies",84.7769230769231,661583
+"1887","Chicago White Sox",91.0645161290323,662883
+"1888","Detroit Tigers",86.332,662883
+"1889","Houston Astros",90.98,661845
+"1890","Texas Rangers",93.0166666666667,661845
+"1891","Arizona Diamondbacks",90.2518518518519,663336
+"1892","Cincinnati Reds",88.552,663336
+"1893","Kansas City Royals",79.1565217391304,662082
+"1894","San Francisco Giants",87.3,662082
+"1895","Minnesota Twins",83.34,662173
+"1896","Seattle Mariners",82.4291666666667,662173
+"1897","Atlanta Braves",91.5645161290323,662504
+"1898","Washington Nationals",85.815,662504
+"1899","New York Yankees",90.3705882352941,661327
+"1900","Tampa Bay Rays",85.1615384615385,661327
+"1901","Baltimore Orioles",91.0083333333333,661744
+"1902","Toronto Blue Jays",93.2484848484848,661744
+"1903","Boston Red Sox",92.5766666666667,663235
+"1904","Oakland Athletics",87.262962962963,663235
+"1905","Milwaukee Brewers",89.78,662480
+"1906","New York Mets",86.2444444444444,662480
+"1907","Pittsburgh Pirates",90.4291666666667,661972
+"1908","St. Louis Cardinals",84.0172413793103,661972
+"1909","Chicago Cubs",86.325,663155
+"1910","San Diego Padres",93.390243902439,663155
+"1911","Cleveland Guardians",82.0741935483871,662893
+"1912","Colorado Rockies",85.1225806451613,662893
+"1913","Los Angeles Angels",84.1631578947368,662694
+"1914","Los Angeles Dodgers",93.4727272727273,662694
+"1915","Boston Red Sox",88.4290322580645,663267
+"1916","Oakland Athletics",85.4645161290323,663267
+"1917","Chicago Cubs",86.4086956521739,663125
+"1918","San Diego Padres",86.2142857142857,663125
+"1919","Baltimore Orioles",86.9121212121212,661743
+"1920","Toronto Blue Jays",91.1333333333333,661743
+"1921","Cleveland Guardians",85.1115384615385,662986
+"1922","Colorado Rockies",88.1566666666667,662986
+"1923","Philadelphia Phillies",93.3242424242424,662501
+"1924","Washington Nationals",84.8384615384615,662501
+"1925","New York Yankees",88.1545454545455,661326
+"1926","Tampa Bay Rays",90.735,661326
+"1927","Detroit Tigers",88.9846153846154,662827
+"1928","Texas Rangers",88.8947368421053,662827
+"1929","Milwaukee Brewers",83.7619047619048,662535
+"1930","New York Mets",82.0478260869565,662535
+"1931","Los Angeles Angels",88.2333333333333,662172
+"1932","Seattle Mariners",83.0666666666667,662172
+"1933","Philadelphia Phillies",90.5625,662580
+"1934","Washington Nationals",91.7347826086957,662580
+"1935","Philadelphia Phillies",86.9555555555555,662502
+"1936","Washington Nationals",88.9310344827586,662502
+"1937","Atlanta Braves",93.1777777777778,663124
+"1938","Chicago Cubs",83.5666666666667,663124
+"1939","Baltimore Orioles",91.0944444444444,661093
+"1940","Tampa Bay Rays",89.8526315789474,661093
+"1941","Cincinnati Reds",88.88,663063
+"1942","Milwaukee Brewers",89.3652173913043,663063
+"1943","Pittsburgh Pirates",93.36,662437
+"1944","San Francisco Giants",89.3166666666667,662437
+"1945","New York Yankees",87.8066666666667,661742
+"1946","Toronto Blue Jays",91.1846153846154,661742
+"1947","Boston Red Sox",90.9416666666667,663256
+"1948","St. Louis Cardinals",92.1214285714286,663256
+"1949","Detroit Tigers",88.5173913043478,662826
+"1950","Texas Rangers",88.56,662826
+"1951","Miami Marlins",84.7653846153846,662534
+"1952","New York Mets",86.4037037037037,662534
+"1953","Chicago White Sox",91.1318181818182,662757
+"1954","Houston Astros",90.95,662757
+"1955","Colorado Rockies",88.6214285714286,662985
+"1956","San Diego Padres",87.1333333333333,662985
+"1957","Kansas City Royals",87.8793103448276,662362
+"1958","Oakland Athletics",83.6125,662362
+"1959","Arizona Diamondbacks",85.5357142857143,663335
+"1960","Minnesota Twins",93.0967741935484,663335
+"1961","Cleveland Guardians",85.0185185185185,662719
+"1962","Los Angeles Dodgers",90.084375,662719
+"1963","Los Angeles Angels",89.685,662171
+"1964","Seattle Mariners",84.0142857142857,662171
+"1965","Atlanta Braves",93.0269230769231,663239
+"1966","Chicago Cubs",86.9636363636364,663239
+"1967","New York Yankees",83.8666666666667,661748
+"1968","Toronto Blue Jays",89.2842105263158,661748
+"1969","Pittsburgh Pirates",90.7652173913043,661123
+"1970","San Francisco Giants",87.2103448275862,661123
+"1971","Baltimore Orioles",84.2214285714286,661127
+"1972","Tampa Bay Rays",88.3774193548387,661127
+"1973","Kansas City Royals",84.83,662368
+"1974","Oakland Athletics",80.5238095238095,662368
+"1975","Los Angeles Angels",92.9833333333333,662194
+"1976","Seattle Mariners",86.8535714285714,662194
+"1977","Los Angeles Angels",87.3185185185185,662170
+"1978","Seattle Mariners",86.7875,662170
+"1979","Detroit Tigers",89.3735294117647,662802
+"1980","Texas Rangers",89.45,662802
+"1981","Chicago White Sox",90.6833333333333,662752
+"1982","Houston Astros",84.3052631578947,662752
+"1983","Miami Marlins",94.175,662533
+"1984","New York Mets",91.6346153846154,662533
+"1985","Cincinnati Reds",84.4466666666667,663062
+"1986","Milwaukee Brewers",85.7178571428571,663062
+"1987","Philadelphia Phillies",83.7137931034483,662500
+"1988","Washington Nationals",88.636,662500
+"1989","Cleveland Guardians",84.4904761904762,662686
+"1990","Los Angeles Dodgers",90.7115384615385,662686
+"1991","Boston Red Sox",91.1826086956522,663255
+"1992","St. Louis Cardinals",88.7451612903226,663255
+"1993","Colorado Rockies",86.2821428571429,662999
+"1994","San Diego Padres",91.4615384615385,662999
+"1995","Arizona Diamondbacks",87.904347826087,663351
+"1996","Minnesota Twins",88.7258064516129,663351
+"1997","Philadelphia Phillies",90.851724137931,662553
+"1998","Washington Nationals",88.2433333333333,662553
+"1999","Pittsburgh Pirates",90.9076923076923,661122
+"2000","San Francisco Giants",87.0473684210526,661122
+"2001","Boston Red Sox",84.6291666666667,663254
+"2002","St. Louis Cardinals",91.3315789473684,663254
+"2003","Baltimore Orioles",85.795,661074
+"2004","Tampa Bay Rays",87.5346153846154,661074
+"2005","New York Yankees",95.7454545454545,661741
+"2006","Toronto Blue Jays",88.3,661741
+"2007","Detroit Tigers",85.7217391304348,662807
+"2008","Texas Rangers",95.5458333333333,662807
+"2009","Miami Marlins",81.5782608695652,662532
+"2010","New York Mets",92.3086956521739,662532
+"2011","Cincinnati Reds",81.7458333333333,663061
+"2012","Milwaukee Brewers",90.225,663061
+"2013","Atlanta Braves",91.468,663218
+"2014","Chicago Cubs",84,663218
+"2015","Colorado Rockies",90.46,662998
+"2016","San Diego Padres",87.7225806451613,662998
+"2017","Kansas City Royals",89.3346153846154,662361
+"2018","Oakland Athletics",85.7708333333333,662361
+"2019","Cleveland Guardians",87.9173913043478,662590
+"2020","Los Angeles Dodgers",91.5619047619048,662590
+"2021","Los Angeles Angels",90.4916666666667,662169
+"2022","Seattle Mariners",81.347619047619,662169
+"2023","Arizona Diamondbacks",87.9,663334
+"2024","Minnesota Twins",86.4875,663334
+"2025","Chicago White Sox",86.3391304347826,662751
+"2026","Houston Astros",85.9538461538462,662751
+"2027","Miami Marlins",87.9727272727273,662522
+"2028","New York Mets",84.4416666666667,662522
+"2029","Chicago Cubs",92.9071428571429,661121
+"2030","Pittsburgh Pirates",90.2821428571429,661121
+"2031","Boston Red Sox",89.3964285714286,663253
+"2032","Detroit Tigers",86.53,663253
+"2033","New York Yankees",86.3260869565217,661893
+"2034","Tampa Bay Rays",88.5647058823529,661893
+"2035","Atlanta Braves",90.608,661143
+"2036","San Francisco Giants",88.825,661143
+"2037","Chicago White Sox",90.91875,661482
+"2038","Toronto Blue Jays",87.7461538461538,661482
+"2039","Milwaukee Brewers",87.0461538461538,661186
+"2040","St. Louis Cardinals",82.0529411764706,661186
+"2041","Kansas City Royals",86.4387096774194,663443
+"2042","Los Angeles Angels",94.4130434782609,663443
+"2043","Arizona Diamondbacks",88.7083333333333,662221
+"2044","San Diego Padres",90.9375,662221
+"2045","Cincinnati Reds",89.6666666666667,663041
+"2046","Los Angeles Dodgers",88.4914285714286,663041
+"2047","Colorado Rockies",88.6642857142857,661148
+"2048","Miami Marlins",92.0787878787879,661148
+"2049","Baltimore Orioles",90.5428571428571,661198
+"2050","Washington Nationals",89.8407407407407,661198
+"2051","Chicago Cubs",91.2296296296296,661124
+"2052","Pittsburgh Pirates",92.9318181818182,661124
+"2053","Boston Red Sox",93.156,663246
+"2054","Detroit Tigers",86.6928571428571,663246
+"2055","New York Yankees",92.0142857142857,661890
+"2056","Tampa Bay Rays",92.0111111111111,661890
+"2057","Atlanta Braves",89.4757575757576,661142
+"2058","San Francisco Giants",89.5931034482759,661142
+"2059","Cleveland Guardians",85.5935483870968,661677
+"2060","Minnesota Twins",90.3269230769231,661677
+"2061","Philadelphia Phillies",91.4,661846
+"2062","Texas Rangers",91.137037037037,661846
+"2063","Houston Astros",92.8307692307692,662750
+"2064","New York Mets",87.9333333333333,662750
+"2065","Chicago White Sox",86.1058823529412,661481
+"2066","Toronto Blue Jays",85.88,661481
+"2067","Milwaukee Brewers",89.9166666666667,661192
+"2068","St. Louis Cardinals",86.46,661192
+"2069","Kansas City Royals",93.6787878787879,663442
+"2070","Los Angeles Angels",89.6441176470588,663442
+"2071","Arizona Diamondbacks",82.8818181818182,662248
+"2072","San Diego Padres",89.535,662248
+"2073","Oakland Athletics",87.9724137931034,662360
+"2074","Seattle Mariners",90.3461538461539,662360
+"2075","Houston Astros",91.3833333333333,662749
+"2076","New York Mets",92.6826086956522,662749
+"2077","Chicago White Sox",86.740625,661457
+"2078","Toronto Blue Jays",94.3529411764706,661457
+"2079","Philadelphia Phillies",88.7,661851
+"2080","Texas Rangers",90.98125,661851
+"2081","Arizona Diamondbacks",85.95,662245
+"2082","San Diego Padres",89.8387096774194,662245
+"2083","Cincinnati Reds",87.8444444444444,663040
+"2084","Los Angeles Dodgers",88.156,663040
+"2085","Colorado Rockies",89.0875,661393
+"2086","Miami Marlins",79.9333333333333,661393
+"2087","Baltimore Orioles",91.5047619047619,661246
+"2088","Washington Nationals",83.96875,661246
+"2089","Chicago Cubs",89.6125,661107
+"2090","Pittsburgh Pirates",87.775,661107
+"2091","Boston Red Sox",87.0818181818182,663252
+"2092","Detroit Tigers",86.7333333333333,663252
+"2093","New York Yankees",90.2888888888889,661889
+"2094","Tampa Bay Rays",85.4777777777778,661889
+"2095","Atlanta Braves",90.16,661141
+"2096","San Francisco Giants",88.052380952381,661141
+"2097","Cleveland Guardians",85.709375,661690
+"2098","Minnesota Twins",92.5428571428571,661690
+"2099","Milwaukee Brewers",89.6590909090909,661230
+"2100","St. Louis Cardinals",87.435,661230
+"2101","Oakland Athletics",90.2615384615385,662359
+"2102","Seattle Mariners",90.8387096774194,662359
+"2103","Kansas City Royals",85.4642857142857,663389
+"2104","Los Angeles Angels",88.4578947368421,663389
+"2105","Colorado Rockies",90.2148148148148,661392
+"2106","Miami Marlins",90.9296296296296,661392
+"2107","Atlanta Braves",88.8555555555556,661140
+"2108","San Francisco Giants",91.9714285714286,661140
+"2109","Cincinnati Reds",87.2896551724138,663039
+"2110","Los Angeles Dodgers",94.4375,663039
+"2111","Chicago Cubs",88.3185185185185,661106
+"2112","Pittsburgh Pirates",88.6357142857143,661106
+"2113","Cleveland Guardians",85.072,661685
+"2114","Minnesota Twins",89.33,661685
+"2115","Milwaukee Brewers",88.3083333333333,661183
+"2116","St. Louis Cardinals",91.9545454545455,661183
+"2117","Oakland Athletics",86.8684210526316,662358
+"2118","Seattle Mariners",85.2263157894737,662358
+"2119","Houston Astros",90.240625,661325
+"2120","New York Yankees",90.3363636363636,661325
+"2121","Baltimore Orioles",92.64,661456
+"2122","Chicago White Sox",91.65,661456
+"2123","Philadelphia Phillies",87.6290322580645,662227
+"2124","San Diego Padres",85.3965517241379,662227
+"2125","Miami Marlins",91.4518518518519,661382
+"2126","New York Mets",91.6875,661382
+"2127","Houston Astros",87.6,661274
+"2128","New York Yankees",87.1038461538461,661274
+"2129","Boston Red Sox",88.9133333333333,663054
+"2130","Cleveland Guardians",91.0129032258065,663054
+"2131","Pittsburgh Pirates",89.1619047619048,661888
+"2132","Tampa Bay Rays",92.62,661888
+"2133","Atlanta Braves",87.3047619047619,661139
+"2134","Los Angeles Dodgers",86.996,661139
+"2135","Texas Rangers",87.34,661844
+"2136","Washington Nationals",87.0333333333333,661844
+"2137","Kansas City Royals",90.032,662664
+"2138","Oakland Athletics",86.2791666666667,662664
+"2139","Colorado Rockies",88.8346153846154,661684
+"2140","Minnesota Twins",87.9653846153846,661684
+"2141","Baltimore Orioles",90.3208333333333,661455
+"2142","Chicago White Sox",92.43,661455
+"2143","Milwaukee Brewers",89.1375,661190
+"2144","Toronto Blue Jays",89.184375,661190
+"2145","Chicago Cubs",89.2206896551724,661971
+"2146","St. Louis Cardinals",84.8666666666667,661971
+"2147","Los Angeles Angels",88.7238095238095,663388
+"2148","Seattle Mariners",88.104,663388
+"2149","Arizona Diamondbacks",82.9545454545455,663333
+"2150","Detroit Tigers",90.4307692307692,663333
+"2151","Philadelphia Phillies",91.9304347826087,662255
+"2152","San Diego Padres",88.5875,662255
+"2153","Cincinnati Reds",88.064,662067
+"2154","San Francisco Giants",86.0304347826087,662067
+"2155","Houston Astros",92.6363636363636,661271
+"2156","New York Yankees",93.5384615384615,661271
+"2157","Pittsburgh Pirates",89.912,661887
+"2158","Tampa Bay Rays",90.5392857142857,661887
+"2159","Baltimore Orioles",89.3416666666667,661454
+"2160","Chicago White Sox",88.6423076923077,661454
+"2161","Chicago Cubs",88.9863636363636,661970
+"2162","St. Louis Cardinals",87.844,661970
+"2163","Texas Rangers",87.2789473684211,661898
+"2164","Washington Nationals",89.3538461538461,661898
+"2165","Kansas City Royals",92.1321428571429,662672
+"2166","Oakland Athletics",85.2333333333333,662672
+"2167","Miami Marlins",89.6478260869565,661381
+"2168","New York Mets",86.7592592592593,661381
+"2169","Milwaukee Brewers",92.9833333333333,661264
+"2170","Toronto Blue Jays",89.1904761904762,661264
+"2171","Boston Red Sox",94.6931034482759,663042
+"2172","Cleveland Guardians",90.9666666666667,663042
+"2173","Cincinnati Reds",82.4416666666667,662083
+"2174","San Francisco Giants",90.2615384615385,662083
+"2175","Colorado Rockies",90.0166666666667,661686
+"2176","Minnesota Twins",91.5074074074074,661686
+"2177","Atlanta Braves",92.468,661138
+"2178","Los Angeles Dodgers",89.1368421052632,661138
+"2179","Los Angeles Angels",89.1074074074074,663441
+"2180","Seattle Mariners",85.1,663441
+"2181","Arizona Diamondbacks",90.1954545454546,663346
+"2182","Detroit Tigers",85.11875,663346
+"2183","Philadelphia Phillies",89.3620689655172,662247
+"2184","San Diego Padres",85.3583333333333,662247
+"2185","Miami Marlins",92.0217391304348,661380
+"2186","New York Mets",86.7,661380
+"2187","Houston Astros",82.1818181818182,661273
+"2188","New York Yankees",95.6571428571429,661273
+"2189","Boston Red Sox",90.0617647058824,663121
+"2190","Cleveland Guardians",90.1375,663121
+"2191","Pittsburgh Pirates",82.1,661886
+"2192","Tampa Bay Rays",89.756,661886
+"2193","Kansas City Royals",87.175,662665
+"2194","Oakland Athletics",89.3793103448276,662665
+"2195","Colorado Rockies",91.3375,661692
+"2196","Minnesota Twins",92.0344827586207,661692
+"2197","Baltimore Orioles",89.06,661453
+"2198","Chicago White Sox",83.8666666666667,661453
+"2199","Milwaukee Brewers",90.1620689655172,661206
+"2200","Toronto Blue Jays",91.176,661206
+"2201","Chicago Cubs",84.284375,661969
+"2202","St. Louis Cardinals",89.0076923076923,661969
+"2203","Texas Rangers",92.0333333333333,661847
+"2204","Washington Nationals",91.4142857142857,661847
+"2205","Cincinnati Reds",87.8375,662061
+"2206","San Francisco Giants",90.5130434782609,662061
+"2207","Los Angeles Angels",88.8333333333333,663387
+"2208","Seattle Mariners",89.1,663387
+"2209","Arizona Diamondbacks",91.053125,663331
+"2210","Detroit Tigers",85.7666666666667,663331
+"2211","Philadelphia Phillies",93.2173913043478,662254
+"2212","San Diego Padres",89.304,662254
+"2213","Atlanta Braves",85.9642857142857,661512
+"2214","Los Angeles Dodgers",91.11875,661512
+"2215","Pittsburgh Pirates",90.7555555555556,662487
+"2216","Washington Nationals",89.6966666666667,662487
+"2217","New York Yankees",87.3,661275
+"2218","Oakland Athletics",85.875,661275
+"2219","Boston Red Sox",91.192,661740
+"2220","Toronto Blue Jays",88.5,661740
+"2221","Cleveland Guardians",87.7307692307692,663016
+"2222","Minnesota Twins",91.3566666666667,663016
+"2223","Miami Marlins",83.9826086956522,661968
+"2224","St. Louis Cardinals",94.1458333333333,661968
+"2225","Kansas City Royals",85.3384615384615,662681
+"2226","Texas Rangers",89.3483870967742,662681
+"2227","Colorado Rockies",89,662912
+"2228","Los Angeles Dodgers",88.4458333333333,662912
+"2229","Chicago White Sox",90.2,663440
+"2230","Los Angeles Angels",87.1166666666667,663440
+"2231","Baltimore Orioles",89,662168
+"2232","Seattle Mariners",84.1045454545455,662168
+"2233","Cleveland Guardians",91.8875,663045
+"2234","Minnesota Twins",89.6260869565217,663045
+"2235","Cleveland Guardians",87.7571428571429,663033
+"2236","Minnesota Twins",91.4551724137931,663033
+"2237","Pittsburgh Pirates",92.15,662484
+"2238","Washington Nationals",84.1,662484
+"2239","Atlanta Braves",89.6333333333333,661580
+"2240","Philadelphia Phillies",89.0565217391304,661580
+"2241","New York Yankees",88.7263157894737,661272
+"2242","Oakland Athletics",90.9739130434783,661272
+"2243","Boston Red Sox",93.325,661728
+"2244","Toronto Blue Jays",94.31,661728
+"2245","Houston Astros",90.9592592592593,662521
+"2246","New York Mets",88.8214285714286,662521
+"2247","Milwaukee Brewers",88.204,661885
+"2248","Tampa Bay Rays",92.1947368421053,661885
+"2249","Miami Marlins",86.7285714285714,661967
+"2250","St. Louis Cardinals",86.7291666666667,661967
+"2251","Chicago Cubs",86.6571428571429,663231
+"2252","Cincinnati Reds",90.6208333333333,663231
+"2253","Kansas City Royals",88.3913043478261,662615
+"2254","Texas Rangers",92.2290322580645,662615
+"2255","Colorado Rockies",88.4333333333333,662911
+"2256","Los Angeles Dodgers",90.2538461538462,662911
+"2257","Chicago White Sox",91.7806451612903,663392
+"2258","Los Angeles Angels",87.9607142857143,663392
+"2259","Arizona Diamondbacks",86.7045454545455,663344
+"2260","San Diego Padres",84.6642857142857,663344
+"2261","Detroit Tigers",90.9692307692308,662060
+"2262","San Francisco Giants",82.6727272727273,662060
+"2263","Baltimore Orioles",79.6764705882353,662186
+"2264","Seattle Mariners",90.052380952381,662186
+"2265","Milwaukee Brewers",85.6428571428571,661879
+"2266","Tampa Bay Rays",83.1916666666667,661879
+"2267","Pittsburgh Pirates",88.7518518518519,662493
+"2268","Washington Nationals",88.19,662493
+"2269","New York Yankees",94.5363636363636,661263
+"2270","Oakland Athletics",83.684,661263
+"2271","Houston Astros",83.0807692307692,662440
+"2272","New York Mets",87.3090909090909,662440
+"2273","Kansas City Royals",88.8125,662675
+"2274","Texas Rangers",85.4807692307692,662675
+"2275","Arizona Diamondbacks",87.6083333333333,663325
+"2276","San Diego Padres",86.9827586206897,663325
+"2277","Detroit Tigers",88.6,662080
+"2278","San Francisco Giants",89.4423076923077,662080
+"2279","Baltimore Orioles",88.8615384615385,662151
+"2280","Seattle Mariners",90.6555555555556,662151
+"2281","Atlanta Braves",91.9125,661584
+"2282","Philadelphia Phillies",88.5681818181818,661584
+"2283","Boston Red Sox",88.8321428571429,661727
+"2284","Toronto Blue Jays",93.3620689655172,661727
+"2285","Cleveland Guardians",88.7676470588235,663030
+"2286","Minnesota Twins",87.825,663030
+"2287","Miami Marlins",91.6230769230769,661134
+"2288","St. Louis Cardinals",85.5633333333333,661134
+"2289","Chicago Cubs",95.8428571428571,663215
+"2290","Cincinnati Reds",91.95,663215
+"2291","Colorado Rockies",85.9444444444444,662894
+"2292","Los Angeles Dodgers",90.258064516129,662894
+"2293","Chicago White Sox",86.12,663396
+"2294","Los Angeles Angels",91.7526315789474,663396
+"2295","Cleveland Guardians",86.7,662983
+"2296","Minnesota Twins",87.5846153846154,662983
+"2297","Atlanta Braves",88.7074074074074,661579
+"2298","Philadelphia Phillies",89.66875,661579
+"2299","Houston Astros",90.9368421052632,662788
+"2300","New York Yankees",84.0380952380952,662788
+"2301","Milwaukee Brewers",91.5933333333333,661105
+"2302","Pittsburgh Pirates",92.5392857142857,661105
+"2303","Tampa Bay Rays",94.39,661726
+"2304","Toronto Blue Jays",90.5689655172414,661726
+"2305","Chicago Cubs",89.4095238095238,663199
+"2306","Cincinnati Reds",86.6642857142857,663199
+"2307","Los Angeles Dodgers",90.00625,662733
+"2308","San Diego Padres",81.5208333333333,662733
+"2309","Oakland Athletics",87.2827586206896,662150
+"2310","Seattle Mariners",88.204,662150
+"2311","Boston Red Sox",92.2740740740741,663185
+"2312","Chicago Cubs",90.3571428571429,663185
+"2313","Tampa Bay Rays",85.2793103448276,661725
+"2314","Toronto Blue Jays",90.3,661725
+"2315","Philadelphia Phillies",87.4310344827586,661582
+"2316","St. Louis Cardinals",89.4411764705882,661582
+"2317","Miami Marlins",84.6125,662492
+"2318","Washington Nationals",81.3875,662492
+"2319","Atlanta Braves",90.3032258064516,663038
+"2320","Cincinnati Reds",81.8535714285714,663038
+"2321","Milwaukee Brewers",89.6619047619048,661104
+"2322","Pittsburgh Pirates",88.35,661104
+"2323","Detroit Tigers",84.036,662834
+"2324","Kansas City Royals",92.6035714285714,662834
+"2325","New York Mets",87.5181818181818,662439
+"2326","Texas Rangers",85.4555555555555,662439
+"2327","Arizona Diamondbacks",90.0911764705882,662997
+"2328","Colorado Rockies",88.7071428571429,662997
+"2329","Houston Astros",88.5464285714286,662748
+"2330","Los Angeles Angels",88.1,662748
+"2331","Baltimore Orioles",87.6666666666667,661691
+"2332","Minnesota Twins",93.3619047619048,661691
+"2333","Los Angeles Dodgers",97.1352941176471,662609
+"2334","San Diego Padres",89.2409090909091,662609
+"2335","Oakland Athletics",83.9454545454545,662149
+"2336","Seattle Mariners",87.675,662149
+"2337","Chicago White Sox",91.376,662079
+"2338","San Francisco Giants",91.9318181818182,662079
+"2339","Tampa Bay Rays",89.0433333333333,661724
+"2340","Toronto Blue Jays",89.9809523809524,661724
+"2341","Tampa Bay Rays",92.362962962963,661836
+"2342","Toronto Blue Jays",92.0931034482759,661836
+"2343","Cleveland Guardians",86.0545454545455,662964
+"2344","New York Yankees",92.8352941176471,662964
+"2345","Cleveland Guardians",89.072,662954
+"2346","New York Yankees",93.9,662954
+"2347","Baltimore Orioles",89.6681818181818,661683
+"2348","Minnesota Twins",91.172,661683
+"2349","Philadelphia Phillies",92.1758620689655,661581
+"2350","St. Louis Cardinals",88.1107142857143,661581
+"2351","Chicago White Sox",88.02,662101
+"2352","San Francisco Giants",84.4703703703704,662101
+"2353","Miami Marlins",87.8413793103448,662482
+"2354","Washington Nationals",84.75,662482
+"2355","Milwaukee Brewers",93.1653846153846,661103
+"2356","Pittsburgh Pirates",92.9227272727273,661103
+"2357","Houston Astros",90.0434782608696,662890
+"2358","Los Angeles Angels",88.0611111111111,662890
+"2359","Detroit Tigers",88.3545454545455,662904
+"2360","Kansas City Royals",85.1583333333333,662904
+"2361","Oakland Athletics",87.6058823529412,662163
+"2362","Seattle Mariners",89.4869565217391,662163
+"2363","New York Mets",89.15,662456
+"2364","Texas Rangers",92.7785714285714,662456
+"2365","Atlanta Braves",91.656,663037
+"2366","Cincinnati Reds",82.6916666666667,663037
+"2367","Boston Red Sox",88.4818181818182,663198
+"2368","Chicago Cubs",81.9210526315789,663198
+"2369","Los Angeles Dodgers",87.6478260869565,662718
+"2370","San Diego Padres",87.1307692307692,662718
+"2371","Arizona Diamondbacks",88.7793103448276,662910
+"2372","Colorado Rockies",89.803125,662910
+"2373","Detroit Tigers",92.5809523809524,662794
+"2374","Kansas City Royals",86.4137931034483,662794
+"2375","Miami Marlins",89.1518518518519,662486
+"2376","Washington Nationals",88.4681818181818,662486
+"2377","Milwaukee Brewers",88.8958333333333,661102
+"2378","Pittsburgh Pirates",83.1909090909091,661102
+"2379","Tampa Bay Rays",90.140625,661723
+"2380","Toronto Blue Jays",92.3111111111111,661723
+"2381","New York Mets",89.0913043478261,662509
+"2382","Texas Rangers",89.7142857142857,662509
+"2383","Atlanta Braves",89.8185185185185,663052
+"2384","Cincinnati Reds",84.7157894736842,663052
+"2385","Cleveland Guardians",91.5571428571428,662957
+"2386","New York Yankees",91.5368421052632,662957
+"2387","Houston Astros",90.3551724137931,662889
+"2388","Los Angeles Angels",94.43,662889
+"2389","Baltimore Orioles",87.996,661689
+"2390","Minnesota Twins",86.8136363636364,661689
+"2391","Boston Red Sox",86.1466666666667,663186
+"2392","Chicago Cubs",86.92,663186
+"2393","Arizona Diamondbacks",88.79375,662913
+"2394","Colorado Rockies",85.4111111111111,662913
+"2395","Chicago White Sox",89.22,662099
+"2396","San Francisco Giants",87.3347826086956,662099
+"2397","Los Angeles Dodgers",91.7423076923077,662684
+"2398","San Diego Padres",84.3869565217391,662684
+"2399","Oakland Athletics",95.6285714285714,662162
+"2400","Seattle Mariners",85.675,662162
+"2401","Philadelphia Phillies",91.7346153846154,661630
+"2402","St. Louis Cardinals",79.6,661630
+"2403","Miami Marlins",90.3448275862069,662541
+"2404","Washington Nationals",82.92,662541
+"2405","Baltimore Orioles",90.9466666666667,661073
+"2406","Texas Rangers",87.9769230769231,661073
+"2407","Cleveland Guardians",85.055,662906
+"2408","Detroit Tigers",90.9846153846154,662906
+"2409","Cleveland Guardians",87.0565217391304,662841
+"2410","Detroit Tigers",85.3965517241379,662841
+"2411","Boston Red Sox",87.4333333333333,663251
+"2412","Tampa Bay Rays",85.8526315789474,663251
+"2413","Houston Astros",88.5607142857143,662874
+"2414","Kansas City Royals",88.2068965517241,662874
+"2415","Chicago Cubs",94.2611111111111,661181
+"2416","Milwaukee Brewers",84.525,661181
+"2417","Arizona Diamondbacks",88.195652173913,663343
+"2418","San Francisco Giants",83.65,663343
+"2419","Cincinnati Reds",92.1227272727273,663036
+"2420","New York Mets",89.8896551724138,663036
+"2421","San Diego Padres",86.1541666666667,662270
+"2422","Seattle Mariners",94.1103448275862,662270
+"2423","Atlanta Braves",93.6791666666667,661511
+"2424","St. Louis Cardinals",88.7655172413793,661511
+"2425","Chicago White Sox",91.936,661452
+"2426","Minnesota Twins",86.7607142857143,661452
+"2427","Oakland Athletics",87.4958333333333,662355
+"2428","Toronto Blue Jays",90.9607142857143,662355
+"2429","Colorado Rockies",90.728,662732
+"2430","Los Angeles Dodgers",89.212,662732
+"2431","San Diego Padres",89.6785714285714,662226
+"2432","Seattle Mariners",88.8148148148148,662226
+"2433","Cincinnati Reds",86.06,663035
+"2434","New York Mets",86.0318181818182,663035
+"2435","Los Angeles Angels",85.8157894736842,661379
+"2436","Miami Marlins",92.0363636363636,661379
+"2437","Baltimore Orioles",89.3606060606061,661244
+"2438","Texas Rangers",88.5424242424242,661244
+"2439","Philadelphia Phillies",91.1258064516129,661578
+"2440","Washington Nationals",92.4,661578
+"2441","New York Yankees",91.2592592592593,662329
+"2442","Pittsburgh Pirates",88.362962962963,662329
+"2443","Cleveland Guardians",87.8805555555556,662905
+"2444","Detroit Tigers",86.5866666666667,662905
+"2445","Boston Red Sox",89.708,663245
+"2446","Tampa Bay Rays",88.5074074074074,663245
+"2447","Atlanta Braves",85.2925925925926,661510
+"2448","St. Louis Cardinals",84.74,661510
+"2449","Houston Astros",89.8483870967742,662847
+"2450","Kansas City Royals",86.9454545454545,662847
+"2451","Chicago White Sox",88.525,661426
+"2452","Minnesota Twins",91.3483870967742,661426
+"2453","Chicago Cubs",88.003125,661187
+"2454","Milwaukee Brewers",90.1954545454546,661187
+"2455","Arizona Diamondbacks",91.248,663320
+"2456","San Francisco Giants",83.82,663320
+"2457","Oakland Athletics",88.4052631578947,662354
+"2458","Toronto Blue Jays",92.0192307692308,662354
+"2459","Colorado Rockies",86.5181818181818,662731
+"2460","Los Angeles Dodgers",87.74,662731
+"2461","Cleveland Guardians",91.0344827586207,662814
+"2462","Detroit Tigers",91.896,662814
+"2463","Chicago White Sox",87.003125,661413
+"2464","Minnesota Twins",91.6606060606061,661413
+"2465","Chicago Cubs",87.7421052631579,661225
+"2466","Milwaukee Brewers",85.5916666666667,661225
+"2467","Oakland Athletics",84.1,662353
+"2468","Toronto Blue Jays",88.451724137931,662353
+"2469","Cincinnati Reds",86.4333333333333,663051
+"2470","New York Mets",86.7904761904762,663051
+"2471","Los Angeles Angels",86.0115384615385,661378
+"2472","Miami Marlins",88.96,661378
+"2473","Baltimore Orioles",86.4,661245
+"2474","Texas Rangers",89.7037037037037,661245
+"2475","Philadelphia Phillies",83.5153846153846,661564
+"2476","Washington Nationals",81.6344827586207,661564
+"2477","New York Yankees",92.8864864864865,662328
+"2478","Pittsburgh Pirates",88.8291666666667,662328
+"2479","Boston Red Sox",89.1846153846154,663244
+"2480","Tampa Bay Rays",85.5379310344828,663244
+"2481","Atlanta Braves",93.752,661509
+"2482","St. Louis Cardinals",85.6541666666667,661509
+"2483","Houston Astros",84.5148148148148,662747
+"2484","Kansas City Royals",88.792,662747
+"2485","Arizona Diamondbacks",86.8551724137931,663318
+"2486","San Francisco Giants",90.7086956521739,663318
+"2487","Colorado Rockies",85.58,662630
+"2488","Los Angeles Dodgers",87.6259259259259,662630
+"2489","Houston Astros",90.25,662746
+"2490","Kansas City Royals",89.1136363636364,662746
+"2491","Cincinnati Reds",90.8391304347826,663071
+"2492","Pittsburgh Pirates",92.3666666666667,663071
+"2493","Cincinnati Reds",91.5571428571428,663140
+"2494","Pittsburgh Pirates",88.8631578947368,663140
+"2495","Philadelphia Phillies",93.5227272727273,661566
+"2496","Washington Nationals",88.395652173913,661566
+"2497","Baltimore Orioles",89.0357142857143,661091
+"2498","Los Angeles Angels",93.5625,661091
+"2499","Miami Marlins",86.8947368421053,662508
+"2500","New York Mets",90.1212121212121,662508
+"2501","Boston Red Sox",85.765,663233
+"2502","New York Yankees",86.3423076923077,663233
+"2503","Atlanta Braves",90.3925925925926,661521
+"2504","St. Louis Cardinals",88.3954545454545,661521
+"2505","Chicago White Sox",87.2608695652174,661425
+"2506","Detroit Tigers",88.9869565217391,661425
+"2507","Arizona Diamondbacks",86.724,663317
+"2508","Colorado Rockies",86.83,663317
+"2509","San Diego Padres",86.7384615384615,662253
+"2510","San Francisco Giants",88.55,662253
+"2511","Chicago Cubs",91.464,662730
+"2512","Los Angeles Dodgers",92.0416666666667,662730
+"2513","Seattle Mariners",88.788,662156
+"2514","Toronto Blue Jays",89.3117647058824,662156
+"2515","Cincinnati Reds",89.7176470588235,663053
+"2516","Tampa Bay Rays",88.8434782608696,663053
+"2517","Baltimore Orioles",91.404347826087,661108
+"2518","Los Angeles Angels",88.6206896551724,661108
+"2519","Miami Marlins",82.80625,662498
+"2520","New York Mets",86.3739130434783,662498
+"2521","Boston Red Sox",89.9115384615385,663202
+"2522","New York Yankees",87.878125,663202
+"2523","Atlanta Braves",90.5363636363636,661522
+"2524","Washington Nationals",89.395652173913,661522
+"2525","Minnesota Twins",89.6833333333333,661843
+"2526","Texas Rangers",89.2333333333333,661843
+"2527","Cleveland Guardians",88.1666666666667,662614
+"2528","Kansas City Royals",89.6607142857143,662614
+"2529","Chicago White Sox",89.6076923076923,661412
+"2530","Detroit Tigers",85.6958333333333,661412
+"2531","Milwaukee Brewers",90.9315789473684,661177
+"2532","Pittsburgh Pirates",79.7875,661177
+"2533","Philadelphia Phillies",92.1214285714286,661136
+"2534","St. Louis Cardinals",83.8592592592593,661136
+"2535","Arizona Diamondbacks",93.3666666666667,663319
+"2536","Colorado Rockies",94.4846153846154,663319
+"2537","Houston Astros",92.8821428571429,662352
+"2538","Oakland Athletics",86.4518518518519,662352
+"2539","San Diego Padres",87.6208333333333,662225
+"2540","San Francisco Giants",91.6,662225
+"2541","Chicago Cubs",84.2814814814815,662610
+"2542","Los Angeles Dodgers",91.5695652173913,662610
+"2543","Seattle Mariners",92.5576923076923,662155
+"2544","Toronto Blue Jays",90.1322580645161,662155
+"2545","Chicago White Sox",86.4633333333333,661411
+"2546","Detroit Tigers",87.424,661411
+"2547","Philadelphia Phillies",91.6818181818182,661137
+"2548","St. Louis Cardinals",87.1304347826087,661137
+"2549","Baltimore Orioles",93.19375,661071
+"2550","Los Angeles Angels",91.3588235294118,661071
+"2551","Minnesota Twins",88.5034482758621,661842
+"2552","Texas Rangers",91.1230769230769,661842
+"2553","Houston Astros",84.7576923076923,662351
+"2554","Oakland Athletics",87.8666666666667,662351
+"2555","Arizona Diamondbacks",88.1407407407407,663310
+"2556","Colorado Rockies",89.8958333333333,663310
+"2557","Cleveland Guardians",87.9702702702703,662663
+"2558","Kansas City Royals",83.2916666666667,662663
+"2559","Cincinnati Reds",86.8222222222222,663092
+"2560","Tampa Bay Rays",92,663092
+"2561","Atlanta Braves",90.1083333333333,661508
+"2562","Washington Nationals",87.9,661508
+"2563","Miami Marlins",91.9740740740741,662497
+"2564","New York Mets",88.6958333333333,662497
+"2565","Milwaukee Brewers",90.2961538461538,661224
+"2566","Pittsburgh Pirates",88.3941176470588,661224
+"2567","San Diego Padres",92.4388888888889,662266
+"2568","San Francisco Giants",88.2777777777778,662266
+"2569","Boston Red Sox",90.9375,663223
+"2570","New York Yankees",89.636,663223
+"2571","Chicago Cubs",86.92,662683
+"2572","Los Angeles Dodgers",90.975,662683
+"2573","Seattle Mariners",82.7722222222222,662147
+"2574","Toronto Blue Jays",81.9190476190476,662147
+"2575","Baltimore Orioles",88.0866666666667,661092
+"2576","Los Angeles Angels",90.7833333333333,661092
+"2577","Atlanta Braves",91.6029411764706,661520
+"2578","Washington Nationals",85.5931034482759,661520
+"2579","Cincinnati Reds",92.1032258064516,663048
+"2580","Tampa Bay Rays",93.1416666666667,663048
+"2581","Miami Marlins",87.1772727272727,662496
+"2582","New York Mets",90,662496
+"2583","Cleveland Guardians",84.4304347826087,662662
+"2584","Kansas City Royals",89.704,662662
+"2585","Chicago White Sox",90.4857142857143,661410
+"2586","Detroit Tigers",87.5590909090909,661410
+"2587","Milwaukee Brewers",84.752,661178
+"2588","Pittsburgh Pirates",85.7153846153846,661178
+"2589","Philadelphia Phillies",92.3689655172414,661135
+"2590","St. Louis Cardinals",87.5153846153846,661135
+"2591","Minnesota Twins",91.4153846153846,661808
+"2592","Texas Rangers",91.7678571428571,661808
+"2593","Houston Astros",89.3064516129032,662215
+"2594","Oakland Athletics",89.2190476190476,662215
+"2595","Arizona Diamondbacks",90.0727272727273,663307
+"2596","Colorado Rockies",88.946875,663307
+"2597","Chicago Cubs",91.495652173913,662729
+"2598","Los Angeles Dodgers",90.8966666666667,662729
+"2599","San Diego Padres",87.1368421052632,662198
+"2600","San Francisco Giants",90.2235294117647,662198
+"2601","Seattle Mariners",89.68,662183
+"2602","Toronto Blue Jays",87.2962962962963,662183
+"2603","Boston Red Sox",85.2413793103448,663232
+"2604","New York Yankees",90.5814814814815,663232
+"2605","Detroit Tigers",84.0916666666667,662700
+"2606","Kansas City Royals",88.8310344827586,662700
+"2607","Detroit Tigers",87.9032258064516,662661
+"2608","Kansas City Royals",89.0344827586207,662661
+"2609","Miami Marlins",89.0545454545455,661324
+"2610","Pittsburgh Pirates",90.0923076923077,661324
+"2611","Boston Red Sox",88.2,661878
+"2612","Tampa Bay Rays",88.3428571428571,661878
+"2613","Chicago White Sox",84.9333333333333,662956
+"2614","Cleveland Guardians",84.925,662956
+"2615","Philadelphia Phillies",91.748,661120
+"2616","St. Louis Cardinals",87.6,661120
+"2617","Atlanta Braves",96.7421052631579,661507
+"2618","New York Mets",87.3538461538461,661507
+"2619","Oakland Athletics",87.3088235294118,661814
+"2620","Texas Rangers",89.0740740740741,661814
+"2621","Colorado Rockies",88.7714285714286,662996
+"2622","San Diego Padres",88.1,662996
+"2623","Arizona Diamondbacks",88.5,662100
+"2624","San Francisco Giants",85.9862068965517,662100
+"2625","Chicago White Sox",87.4,663087
+"2626","Cleveland Guardians",90.264,663087
+"2627","Chicago White Sox",90.6857142857143,662976
+"2628","Cleveland Guardians",87.6904761904762,662976
+"2629","Miami Marlins",91.124,661377
+"2630","Pittsburgh Pirates",84.1153846153846,661377
+"2631","Cincinnati Reds",85.6047619047619,661262
+"2632","New York Yankees",88.1592592592593,661262
+"2633","Philadelphia Phillies",92.07,661722
+"2634","Toronto Blue Jays",87.8458333333333,661722
+"2635","Boston Red Sox",85.0368421052632,661877
+"2636","Tampa Bay Rays",87.0714285714286,661877
+"2637","Atlanta Braves",88.8125,661506
+"2638","New York Mets",86.8944444444444,661506
+"2639","Milwaukee Brewers",90.42,661688
+"2640","Minnesota Twins",85.3230769230769,661688
+"2641","Los Angeles Dodgers",89.5931034482759,661119
+"2642","St. Louis Cardinals",93.8967741935484,661119
+"2643","Baltimore Orioles",85.6862068965517,663187
+"2644","Chicago Cubs",82.8269230769231,663187
+"2645","Oakland Athletics",87.1108108108108,661813
+"2646","Texas Rangers",88.43,661813
+"2647","Detroit Tigers",88.1029411764706,662660
+"2648","Kansas City Royals",91.8222222222222,662660
+"2649","Colorado Rockies",83.752,662984
+"2650","San Diego Padres",85.5566666666667,662984
+"2651","Houston Astros",87.8185185185185,663402
+"2652","Los Angeles Angels",85.0684210526316,663402
+"2653","Arizona Diamondbacks",87.756,662108
+"2654","San Francisco Giants",90.8678571428571,662108
+"2655","Seattle Mariners",85.8826086956522,662517
+"2656","Washington Nationals",87.5,662517
+"2657","Seattle Mariners",94.872,662531
+"2658","Washington Nationals",87.9304347826087,662531
+"2659","Atlanta Braves",89.5380952380952,661505
+"2660","New York Mets",91.3807692307692,661505
+"2661","Milwaukee Brewers",85.3136363636364,661687
+"2662","Minnesota Twins",87.6125,661687
+"2663","Detroit Tigers",85.6863636363636,662659
+"2664","Kansas City Royals",90.625,662659
+"2665","Arizona Diamondbacks",85.0888888888889,662107
+"2666","San Francisco Giants",90.0695652173913,662107
+"2667","Miami Marlins",91.9636363636364,661376
+"2668","Pittsburgh Pirates",91.9238095238095,661376
+"2669","Cincinnati Reds",88.8777777777778,661269
+"2670","New York Yankees",90.0526315789474,661269
+"2671","Philadelphia Phillies",87.1333333333333,661721
+"2672","Toronto Blue Jays",88.9269230769231,661721
+"2673","Boston Red Sox",83.5,661876
+"2674","Tampa Bay Rays",90.7,661876
+"2675","Chicago White Sox",88.436,662949
+"2676","Cleveland Guardians",85.4347826086957,662949
+"2677","Los Angeles Dodgers",86.1592592592593,661118
+"2678","St. Louis Cardinals",86.2592592592593,661118
+"2679","Baltimore Orioles",85.5833333333333,663230
+"2680","Chicago Cubs",87.6391304347826,663230
+"2681","Oakland Athletics",87.521052631579,661812
+"2682","Texas Rangers",85.2363636363636,661812
+"2683","Colorado Rockies",88.4352941176471,662895
+"2684","San Diego Padres",89.23,662895
+"2685","Houston Astros",88.0125,663401
+"2686","Los Angeles Angels",87.0882352941177,663401
+"2687","Miami Marlins",83.9225806451613,661375
+"2688","Pittsburgh Pirates",82.8142857142857,661375
+"2689","Colorado Rockies",91.4863636363636,661100
+"2690","San Diego Padres",83.05,661100
+"2691","Atlanta Braves",87.6739130434783,662518
+"2692","Washington Nationals",86.975,662518
+"2693","Cincinnati Reds",82.8323529411765,661261
+"2694","New York Yankees",89.284,661261
+"2695","Kansas City Royals",92.46,661720
+"2696","Toronto Blue Jays",91.272,661720
+"2697","Cleveland Guardians",93.9107142857143,663123
+"2698","Detroit Tigers",88.515,663123
+"2699","Boston Red Sox",83.6458333333333,661875
+"2700","Tampa Bay Rays",91.5318181818182,661875
+"2701","Los Angeles Dodgers",89.2821428571429,661117
+"2702","St. Louis Cardinals",83.9772727272727,661117
+"2703","Chicago White Sox",87.66,661675
+"2704","Minnesota Twins",86.4379310344828,661675
+"2705","Chicago Cubs",85.1954545454545,661101
+"2706","New York Mets",91.6774193548387,661101
+"2707","Seattle Mariners",86.3130434782609,661811
+"2708","Texas Rangers",89.1142857142857,661811
+"2709","Houston Astros",88.1041666666667,663386
+"2710","Los Angeles Angels",88.676,663386
+"2711","Milwaukee Brewers",88.9387096774194,662109
+"2712","San Francisco Giants",81.0052631578947,662109
+"2713","Miami Marlins",87.4095238095238,661374
+"2714","Philadelphia Phillies",92.76875,661374
+"2715","Atlanta Braves",89.5307692307692,662516
+"2716","Washington Nationals",88.772,662516
+"2717","Boston Red Sox",84.2566666666667,661260
+"2718","New York Yankees",85.55,661260
+"2719","Kansas City Royals",88.9333333333333,661719
+"2720","Toronto Blue Jays",92.1294117647059,661719
+"2721","Cleveland Guardians",83.7375,662942
+"2722","Detroit Tigers",88.3241379310345,662942
+"2723","Baltimore Orioles",85.3806451612903,661874
+"2724","Tampa Bay Rays",88.3916666666667,661874
+"2725","Seattle Mariners",90.7652173913043,661810
+"2726","Texas Rangers",90.68125,661810
+"2727","Houston Astros",90.8363636363636,662923
+"2728","Oakland Athletics",87.8296296296296,662923
+"2729","Chicago White Sox",88.1,661674
+"2730","Minnesota Twins",90.1296296296296,661674
+"2731","Cincinnati Reds",89.7,661116
+"2732","St. Louis Cardinals",90.835,661116
+"2733","Colorado Rockies",92.1545454545455,661113
+"2734","Pittsburgh Pirates",90.8448275862069,661113
+"2735","Los Angeles Angels",92.5863636363636,663385
+"2736","Los Angeles Dodgers",88.65625,663385
+"2737","Arizona Diamondbacks",88.1086956521739,662197
+"2738","San Diego Padres",89.2296296296296,662197
+"2739","Milwaukee Brewers",82.1,662072
+"2740","San Francisco Giants",86.9931034482759,662072
+"2741","Chicago White Sox",90.1892857142857,661673
+"2742","Minnesota Twins",90.3434782608696,661673
+"2743","Cincinnati Reds",86.1833333333333,661966
+"2744","St. Louis Cardinals",88.4827586206897,661966
+"2745","Chicago Cubs",90.9590909090909,661114
+"2746","New York Mets",89.9095238095238,661114
+"2747","Chicago Cubs",90.4291666666667,661115
+"2748","New York Mets",90.0111111111111,661115
+"2749","Kansas City Royals",90.6964285714286,661718
+"2750","Toronto Blue Jays",93.4296296296296,661718
+"2751","Colorado Rockies",89.0041666666667,661081
+"2752","Pittsburgh Pirates",86.7666666666667,661081
+"2753","Seattle Mariners",88.5558823529412,661809
+"2754","Texas Rangers",88.7652173913043,661809
+"2755","Atlanta Braves",91.0724137931035,662483
+"2756","Washington Nationals",87.4785714285714,662483
+"2757","Cleveland Guardians",92.70625,662952
+"2758","Detroit Tigers",82.22,662952
+"2759","Houston Astros",90.9538461538462,662909
+"2760","Oakland Athletics",87.9176470588235,662909
+"2761","Baltimore Orioles",84.9433333333333,661873
+"2762","Tampa Bay Rays",88.6620689655172,661873
+"2763","Miami Marlins",87.8904761904762,661359
+"2764","Philadelphia Phillies",90.9909090909091,661359
+"2765","Boston Red Sox",92.2375,661259
+"2766","New York Yankees",94.0357142857143,661259
+"2767","Milwaukee Brewers",89.0833333333333,662113
+"2768","San Francisco Giants",85.0818181818182,662113
+"2769","Arizona Diamondbacks",87.7466666666667,662271
+"2770","San Diego Padres",91.1392857142857,662271
+"2771","Los Angeles Angels",82.476,663415
+"2772","Los Angeles Dodgers",90.4227272727273,663415
+"2773","Kansas City Royals",86.7,661717
+"2774","Toronto Blue Jays",88.008,661717
+"2775","Atlanta Braves",85.6923076923077,662530
+"2776","Washington Nationals",86.0125,662530
+"2777","Boston Red Sox",89.8,661258
+"2778","New York Yankees",86.46875,661258
+"2779","Baltimore Orioles",88.0241379310345,661872
+"2780","Tampa Bay Rays",83.2736842105263,661872
+"2781","Miami Marlins",88.321052631579,661373
+"2782","Philadelphia Phillies",88.144,661373
+"2783","Houston Astros",86.3535714285714,662908
+"2784","Oakland Athletics",87.5384615384615,662908
+"2785","Chicago White Sox",89.971875,661672
+"2786","Minnesota Twins",85.41,661672
+"2787","Chicago Cubs",92.2409090909091,661082
+"2788","New York Mets",87.1483870967742,661082
+"2789","Seattle Mariners",90,661821
+"2790","Texas Rangers",90.1416666666667,661821
+"2791","Colorado Rockies",88.5962962962963,661080
+"2792","Pittsburgh Pirates",92.8709677419355,661080
+"2793","Milwaukee Brewers",91.94,662059
+"2794","San Francisco Giants",93.572,662059
+"2795","Arizona Diamondbacks",87.6521739130435,662269
+"2796","San Diego Padres",88.3666666666667,662269
+"2797","Miami Marlins",91.4923076923077,661421
+"2798","Texas Rangers",88.1653846153846,661421
+"2799","Houston Astros",91.3545454545455,662776
+"2800","New York Yankees",85.164,662776
+"2801","Houston Astros",90.0333333333333,662775
+"2802","New York Yankees",83.1166666666667,662775
+"2803","Detroit Tigers",88.9275862068965,662411
+"2804","Oakland Athletics",90.5578947368421,662411
+"2805","Detroit Tigers",83.6411764705882,662408
+"2806","Oakland Athletics",85.4384615384615,662408
+"2807","Los Angeles Dodgers",95.424,662685
+"2808","San Francisco Giants",87.544,662685
+"2809","Cincinnati Reds",83.9041666666667,663060
+"2810","St. Louis Cardinals",84.5782608695652,663060
+"2811","Chicago Cubs",91.6128205128205,661560
+"2812","Philadelphia Phillies",88.0689655172414,661560
+"2813","Miami Marlins",91.1228571428571,662327
+"2814","Pittsburgh Pirates",88.2666666666667,662327
+"2815","Baltimore Orioles",87.6153846153846,661072
+"2816","New York Yankees",92.5318181818182,661072
+"2817","New York Mets",91.2652173913043,662481
+"2818","San Diego Padres",89.4782608695652,662481
+"2819","Boston Red Sox",88.46,663222
+"2820","Toronto Blue Jays",90.7354166666667,663222
+"2821","Atlanta Braves",89.3055555555556,661504
+"2822","Los Angeles Angels",86.5352941176471,661504
+"2823","Kansas City Royals",87.146875,662658
+"2824","Tampa Bay Rays",87.262962962963,662658
+"2825","Chicago White Sox",89.4291666666667,661409
+"2826","Cleveland Guardians",85.7702702702703,661409
+"2827","Colorado Rockies",85.303125,661193
+"2828","Milwaukee Brewers",90.0285714285714,661193
+"2829","Arizona Diamondbacks",87.0851851851852,663306
+"2830","Washington Nationals",86.9909090909091,663306
+"2831","Oakland Athletics",88.5962962962963,662344
+"2832","Texas Rangers",89.25,662344
+"2833","Houston Astros",86.8225806451613,662167
+"2834","Seattle Mariners",82.8678571428571,662167
+"2835","Los Angeles Dodgers",91.8481481481482,662589
+"2836","San Francisco Giants",84.7444444444444,662589
+"2837","Chicago White Sox",83.3142857142857,661523
+"2838","Cleveland Guardians",87.5705882352941,661523
+"2839","Chicago White Sox",89.6653846153846,661408
+"2840","Cleveland Guardians",86.752,661408
+"2841","Houston Astros",88.9428571428571,662146
+"2842","Seattle Mariners",85.665,662146
+"2843","Boston Red Sox",86.9181818181818,663221
+"2844","Toronto Blue Jays",88.5347826086957,663221
+"2845","Chicago Cubs",83.9769230769231,661559
+"2846","Philadelphia Phillies",88.2260869565217,661559
+"2847","Detroit Tigers",91.18,662902
+"2848","Minnesota Twins",84.834375,662902
+"2849","Cincinnati Reds",81.0952380952381,663047
+"2850","St. Louis Cardinals",90.9235294117647,663047
+"2851","Miami Marlins",86.7863636363636,662436
+"2852","Pittsburgh Pirates",80.8307692307692,662436
+"2853","Baltimore Orioles",89.625,661057
+"2854","New York Yankees",90.51875,661057
+"2855","New York Mets",89.4636363636364,662495
+"2856","San Diego Padres",79.7117647058824,662495
+"2857","Kansas City Royals",88.75,662657
+"2858","Tampa Bay Rays",86.6368421052632,662657
+"2859","Colorado Rockies",85.1083333333333,661201
+"2860","Milwaukee Brewers",88.7392857142857,661201
+"2861","Los Angeles Dodgers",87.0545454545454,662608
+"2862","San Francisco Giants",85.5086956521739,662608
+"2863","Atlanta Braves",91.5714285714286,661503
+"2864","Los Angeles Angels",84.4521739130435,661503
+"2865","Arizona Diamondbacks",83.5269230769231,663305
+"2866","Washington Nationals",84.2055555555555,663305
+"2867","Oakland Athletics",87.9416666666667,662348
+"2868","Texas Rangers",88.052,662348
+"2869","Chicago Cubs",85.8269230769231,661556
+"2870","Philadelphia Phillies",85.3464285714286,661556
+"2871","Boston Red Sox",85.124,663220
+"2872","Toronto Blue Jays",85.4628571428571,663220
+"2873","Atlanta Braves",90,661502
+"2874","Los Angeles Angels",85.4033333333333,661502
+"2875","Miami Marlins",85.325,662357
+"2876","Pittsburgh Pirates",90.15,662357
+"2877","Baltimore Orioles",87.372,661056
+"2878","New York Yankees",93.3935483870968,661056
+"2879","Cincinnati Reds",83.175,663059
+"2880","St. Louis Cardinals",84.4541666666667,663059
+"2881","Detroit Tigers",87.7913043478261,662901
+"2882","Minnesota Twins",88.1818181818182,662901
+"2883","Kansas City Royals",87.6548387096774,662656
+"2884","Tampa Bay Rays",89.2,662656
+"2885","Chicago White Sox",87.6296296296296,661407
+"2886","Cleveland Guardians",85.5461538461538,661407
+"2887","Colorado Rockies",82.825,661184
+"2888","Milwaukee Brewers",94.2481481481481,661184
+"2889","Oakland Athletics",90.003125,662343
+"2890","Texas Rangers",90.1742857142857,662343
+"2891","Arizona Diamondbacks",87.1516129032258,663316
+"2892","Washington Nationals",87.3269230769231,663316
+"2893","Houston Astros",87.0866666666667,662145
+"2894","Seattle Mariners",88.284,662145
+"2895","Los Angeles Dodgers",90.5107142857143,662682
+"2896","San Francisco Giants",87.8190476190476,662682
+"2897","New York Mets",88.6214285714286,662458
+"2898","San Diego Padres",89.309375,662458
+"2899","Cincinnati Reds",88.26,663046
+"2900","Miami Marlins",89.2409090909091,663046
+"2901","Baltimore Orioles",87.9269230769231,661055
+"2902","Tampa Bay Rays",90.404,661055
+"2903","Atlanta Braves",86.3192307692308,661555
+"2904","Philadelphia Phillies",84.112,661555
+"2905","Boston Red Sox",85.47,663219
+"2906","Cleveland Guardians",85.1375,663219
+"2907","Detroit Tigers",89.103125,662809
+"2908","San Diego Padres",90.1857142857143,662809
+"2909","Chicago Cubs",90.824,661065
+"2910","Pittsburgh Pirates",83.1142857142857,661065
+"2911","Kansas City Royals",91.152,662655
+"2912","Los Angeles Angels",91.2181818181818,662655
+"2913","Colorado Rockies",93.78,661231
+"2914","Milwaukee Brewers",88.1727272727273,661231
+"2915","Houston Astros",85.9,662347
+"2916","Oakland Athletics",87.0653846153846,662347
+"2917","Arizona Diamondbacks",90.1033333333333,663315
+"2918","San Francisco Giants",85.8294117647059,663315
+"2919","Los Angeles Dodgers",90.3142857142857,662576
+"2920","Washington Nationals",85.4818181818182,662576
+"2921","Seattle Mariners",86.09,662166
+"2922","Texas Rangers",84.9192307692308,662166
+"2923","Chicago Cubs",91.66,661064
+"2924","Pittsburgh Pirates",84.4,661064
+"2925","Cincinnati Reds",88.5647058823529,663029
+"2926","Miami Marlins",88.1148148148148,663029
+"2927","Baltimore Orioles",90.8142857142857,661054
+"2928","Tampa Bay Rays",93.5966666666667,661054
+"2929","Atlanta Braves",89.836,661563
+"2930","Philadelphia Phillies",86.375,661563
+"2931","St. Louis Cardinals",89.584,661716
+"2932","Toronto Blue Jays",92.4466666666667,661716
+"2933","Boston Red Sox",91.396,663203
+"2934","Cleveland Guardians",89.05,663203
+"2935","Detroit Tigers",84.21,662813
+"2936","San Diego Padres",88.8535714285714,662813
+"2937","New York Mets",92.2333333333333,662438
+"2938","New York Yankees",88.7275862068965,662438
+"2939","Kansas City Royals",83.8,662653
+"2940","Los Angeles Angels",87.6903225806452,662653
+"2941","Milwaukee Brewers",89.452,661281
+"2942","Minnesota Twins",87.4222222222222,661281
+"2943","Chicago White Sox",93.124,661079
+"2944","Colorado Rockies",85.7038461538462,661079
+"2945","Houston Astros",88.176,662346
+"2946","Oakland Athletics",90.5222222222222,662346
+"2947","Arizona Diamondbacks",90.09375,663314
+"2948","San Francisco Giants",85.884,663314
+"2949","Los Angeles Dodgers",88.2038461538462,662573
+"2950","Washington Nationals",83.95625,662573
+"2951","Seattle Mariners",89.5083333333333,662184
+"2952","Texas Rangers",85.7695652173913,662184
+"2953","Atlanta Braves",84.896,661554
+"2954","Philadelphia Phillies",86.76,661554
+"2955","Detroit Tigers",89.4857142857143,662900
+"2956","San Diego Padres",87.888,662900
+"2957","Kansas City Royals",88.7,662652
+"2958","Los Angeles Angels",86.5153846153846,662652
+"2959","Milwaukee Brewers",86.752,661249
+"2960","Minnesota Twins",88.71,661249
+"2961","Los Angeles Dodgers",88.1037037037037,662565
+"2962","Washington Nationals",88.385,662565
+"2963","Chicago White Sox",92.2,661078
+"2964","Colorado Rockies",85.788,661078
+"2965","Houston Astros",87.1407407407407,662345
+"2966","Oakland Athletics",92.6809523809524,662345
+"2967","Arizona Diamondbacks",92.34,663294
+"2968","San Francisco Giants",86.3074074074074,663294
+"2969","Seattle Mariners",83.37,662165
+"2970","Texas Rangers",88.0962962962963,662165
+"2971","Cincinnati Reds",89.0125,663028
+"2972","Miami Marlins",83.464,663028
+"2973","Baltimore Orioles",89.0888888888889,661053
+"2974","Tampa Bay Rays",90.7692307692308,661053
+"2975","St. Louis Cardinals",92.4153846153846,661715
+"2976","Toronto Blue Jays",94.52,661715
+"2977","Boston Red Sox",85.8714285714286,663191
+"2978","Cleveland Guardians",81.2736842105263,663191
+"2979","New York Mets",87.0875,662420
+"2980","New York Yankees",92.2958333333333,662420
+"2981","Baltimore Orioles",86.2105263157895,661052
+"2982","Tampa Bay Rays",81.0545454545455,661052
+"2983","Cincinnati Reds",91.4033333333333,663027
+"2984","Miami Marlins",90.8346153846154,663027
+"2985","Philadelphia Phillies",91.2388888888889,662326
+"2986","Pittsburgh Pirates",89.6363636363636,662326
+"2987","Kansas City Royals",85.3833333333333,661257
+"2988","New York Yankees",87.1133333333333,661257
+"2989","Detroit Tigers",85.2961538461538,661714
+"2990","Toronto Blue Jays",92.4321428571428,661714
+"2991","Boston Red Sox",88.0809523809524,663200
+"2992","Cleveland Guardians",82.9230769230769,663200
+"2993","Houston Astros",95.2476190476191,662907
+"2994","Seattle Mariners",87.3538461538461,662907
+"2995","Colorado Rockies",81.7655172413793,661077
+"2996","Los Angeles Dodgers",92.1941176470588,661077
+"2997","Los Angeles Angels",87.4041666666667,663380
+"2998","Texas Rangers",87.7954545454545,663380
+"2999","Chicago Cubs",85.7636363636364,662058
+"3000","San Francisco Giants",86.78,662058
+"3001","Baltimore Orioles",86.351724137931,663026
+"3002","Cincinnati Reds",86.7,663026
+"3003","Miami Marlins",87.2,661372
+"3004","New York Mets",91.2857142857143,661372
+"3005","St. Louis Cardinals",92.8478260869565,662477
+"3006","Washington Nationals",86.8,662477
+"3007","Philadelphia Phillies",91.93125,662435
+"3008","Pittsburgh Pirates",86.2913043478261,662435
+"3009","Kansas City Royals",83.0272727272727,661256
+"3010","New York Yankees",87.1678571428571,661256
+"3011","Detroit Tigers",88.1642857142857,661713
+"3012","Toronto Blue Jays",88.05,661713
+"3013","Cleveland Guardians",88.5296296296296,661871
+"3014","Tampa Bay Rays",86.58,661871
+"3015","Boston Red Sox",86.18,663190
+"3016","Milwaukee Brewers",84.7190476190476,663190
+"3017","Arizona Diamondbacks",91.008,661501
+"3018","Atlanta Braves",94.7740740740741,661501
+"3019","Houston Astros",89.9058823529412,662745
+"3020","Seattle Mariners",87.2230769230769,662745
+"3021","Chicago White Sox",86.0518518518519,661406
+"3022","Oakland Athletics",90.476,661406
+"3023","Colorado Rockies",88.6230769230769,661076
+"3024","Los Angeles Dodgers",88.9933333333333,661076
+"3025","Los Angeles Angels",79.7833333333333,663379
+"3026","Texas Rangers",89.2148148148148,663379
+"3027","Minnesota Twins",93.39,662268
+"3028","San Diego Padres",91.6590909090909,662268
+"3029","Chicago Cubs",83.8333333333333,662057
+"3030","San Francisco Giants",84.6484848484849,662057
+"3031","Cleveland Guardians",84.9458333333333,661870
+"3032","Tampa Bay Rays",90.647619047619,661870
+"3033","Kansas City Royals",86.0666666666667,661255
+"3034","New York Yankees",87.3125,661255
+"3035","Detroit Tigers",90.44,661712
+"3036","Toronto Blue Jays",89.9285714285714,661712
+"3037","Boston Red Sox",89.0785714285714,663192
+"3038","Milwaukee Brewers",87.6516129032258,663192
+"3039","Miami Marlins",85.9857142857143,661371
+"3040","New York Mets",92.1333333333333,661371
+"3041","Baltimore Orioles",87.99,663025
+"3042","Cincinnati Reds",87.86,663025
+"3043","Houston Astros",88.828125,662738
+"3044","Seattle Mariners",88.7136363636364,662738
+"3045","St. Louis Cardinals",91.6481481481482,662476
+"3046","Washington Nationals",89.7307692307692,662476
+"3047","Minnesota Twins",90.7227272727273,662196
+"3048","San Diego Padres",90.4666666666667,662196
+"3049","Philadelphia Phillies",86.2172413793104,662415
+"3050","Pittsburgh Pirates",87.465,662415
+"3051","Chicago White Sox",90.5192307692308,661451
+"3052","Oakland Athletics",85.3275862068966,661451
+"3053","Arizona Diamondbacks",88.1904761904762,661499
+"3054","Atlanta Braves",93.3,661499
+"3055","Colorado Rockies",85.962962962963,662989
+"3056","Los Angeles Dodgers",85.8576923076923,662989
+"3057","Chicago Cubs",88.7931034482759,662112
+"3058","San Francisco Giants",89.2047619047619,662112
+"3059","Los Angeles Angels",90.5363636363636,663378
+"3060","Texas Rangers",89.9916666666667,663378
+"3061","Detroit Tigers",87.4363636363636,661711
+"3062","Toronto Blue Jays",92.9923076923077,661711
+"3063","St. Louis Cardinals",84.848,662475
+"3064","Washington Nationals",83.9894736842105,662475
+"3065","Philadelphia Phillies",91.4026315789474,662414
+"3066","Pittsburgh Pirates",88.5807692307692,662414
+"3067","Arizona Diamondbacks",83.2210526315789,661498
+"3068","Atlanta Braves",87.6052631578947,661498
+"3069","Kansas City Royals",83.5653846153846,661254
+"3070","New York Yankees",89.6571428571429,661254
+"3071","Boston Red Sox",90.852,663189
+"3072","Milwaukee Brewers",87.9870967741935,663189
+"3073","Baltimore Orioles",89.8727272727273,663024
+"3074","Cincinnati Reds",84.0047619047619,663024
+"3075","Cleveland Guardians",84.7233333333333,661869
+"3076","Tampa Bay Rays",93.8,661869
+"3077","Miami Marlins",90.3821428571429,661370
+"3078","New York Mets",88.0825,661370
+"3079","Houston Astros",81.7625,662918
+"3080","Seattle Mariners",84.65,662918
+"3081","Chicago White Sox",93.5583333333333,661388
+"3082","Oakland Athletics",82.2285714285714,661388
+"3083","Colorado Rockies",90.2590909090909,662988
+"3084","Los Angeles Dodgers",92.2424242424242,662988
+"3085","Los Angeles Angels",88.5272727272727,663377
+"3086","Texas Rangers",89.3933333333333,663377
+"3087","Minnesota Twins",89.58,662267
+"3088","San Diego Padres",88.8925925925926,662267
+"3089","Chicago Cubs",88.85,662071
+"3090","San Francisco Giants",86.73,662071
+"3091","Cincinnati Reds",87.6535714285714,661369
+"3092","Miami Marlins",84.2095238095238,661369
+"3093","New York Mets",85.18,662474
+"3094","Washington Nationals",89.5076923076923,662474
+"3095","New York Yankees",90.7038461538462,661268
+"3096","Seattle Mariners",90.6241379310345,661268
+"3097","Arizona Diamondbacks",86.5103448275862,662947
+"3098","Cleveland Guardians",86.4233333333333,662947
+"3099","Detroit Tigers",83.647619047619,661671
+"3100","Minnesota Twins",89.034375,661671
+"3101","Baltimore Orioles",93.3818181818182,661820
+"3102","Texas Rangers",88.112,661820
+"3103","Boston Red Sox",88.6583333333333,662737
+"3104","Houston Astros",86.7166666666667,662737
+"3105","Chicago White Sox",84.0925925925926,661387
+"3106","Kansas City Royals",83.8423076923077,661387
+"3107","Colorado Rockies",85.4153846153846,662224
+"3108","San Diego Padres",88.055,662224
+"3109","Los Angeles Dodgers",88.08,662070
+"3110","San Francisco Giants",91.5565217391304,662070
