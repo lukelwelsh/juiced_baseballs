@@ -6,3 +6,5 @@ For viewing my work, please address scrape_games.md to view the code used to wra
 
 Then, please see significance_tests.pdf to see my analysis if there was significance in the data (testing my driving question).
  - the graphs were not loading in with a normal markdown, so I switched to using .pdf instead
+ 
+ [embed]https://github.com/lukelwelsh/juiced_baseballs/blob/main/significance_tests.pdf[/embed]
